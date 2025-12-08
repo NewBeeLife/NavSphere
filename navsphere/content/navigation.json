@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1765205627336",
+      "title": "K12权威资讯",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1438,15 +1447,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765205627336",
-      "title": "K12权威资讯",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
