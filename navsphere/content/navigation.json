@@ -22,6 +22,14 @@
           "description": "天津所有学校名录，包括：初中、高中、小学、大学，学校官网、地址、公众号、师资、特色等",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tj.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1765206452655_l4jta98io",
+          "title": "天津市教育委员会",
+          "href": "https://jy.tj.gov.cn/BMFW/rxzs/ywjyzs/",
+          "description": "中学招生政策，具体说明每个学校所属区域，以及招生区域",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jy.tj.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
