@@ -30,6 +30,14 @@
           "description": "中学招生政策，具体说明每个学校所属区域，以及招生区域",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=jy.tj.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1765206529642_5isdjxakw",
+          "title": "学信网",
+          "href": "https://www.chsi.com.cn/",
+          "description": "学信网，涉及大学和研究生的录取政策说明等",
+          "icon": "/assets/favicon_1765206482701.png",
+          "enabled": true
         }
       ],
       "subCategories": []
