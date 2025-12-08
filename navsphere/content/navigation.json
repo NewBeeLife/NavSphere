@@ -14,6 +14,14 @@
           "description": "中高考权威资讯，包括：考试安排、录取成绩、一分一段表、真题解析等",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zhaokao.net",
           "enabled": true
+        },
+        {
+          "id": "site_1765206283416_but276qlt",
+          "title": "天津政务网 - 学校名录",
+          "href": "https://www.tj.gov.cn/zwgk/ggqsydwxxgk/jy/",
+          "description": "天津所有学校名录，包括：初中、高中、小学、大学，学校官网、地址、公众号、师资、特色等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tj.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
