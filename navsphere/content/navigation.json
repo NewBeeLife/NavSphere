@@ -104,7 +104,16 @@
       "icon": "Network",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765284546888_8cyenqe98",
+          "title": "Hamibot 安卓自动化工具，提高工作效率",
+          "href": "https://hamibot.com/",
+          "description": "Hamibot 是一款安卓自动化工具，能操控任意 APP，实现自动化操作。脚本市场提供易用的脚本。",
+          "icon": "/assets/favicon_1765284536338.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
