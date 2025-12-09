@@ -86,6 +86,14 @@
           "description": "河北区教育政策，包括：初中空降生和高一安置考等",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhb.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1765259201778_z64i7e1zy",
+          "title": "红桥区教育政策",
+          "href": "http://www.tjhq.gov.cn/zwgk/zfxxgkqzf/hz/fdzdgknr1/zdmsxx1/jy1/",
+          "description": "红桥区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "/assets/favicon_1765259148388.png",
+          "enabled": true
         }
       ],
       "subCategories": []
