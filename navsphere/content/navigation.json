@@ -78,6 +78,14 @@
           "description": "河东区教育政策，包括：初中空降生和高一安置考等",
           "icon": "/assets/favicon_1765258761850.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765259034498_0q08jt8bg",
+          "title": "河北区教育政策",
+          "href": "http://www.tjhb.gov.cn/zwgk/zfxxgk/zfxxgkqjjg/qjyj/fdzdgknr5/zdmsxx5/jy5/index.html",
+          "description": "河北区教育政策，包括：初中空降生和高一安置考等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhb.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
