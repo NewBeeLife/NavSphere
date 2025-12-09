@@ -1520,6 +1520,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765284473692",
+      "title": "远程控制",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
