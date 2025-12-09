@@ -114,7 +114,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "6a138e3f-61d5-4e43-8107-b8bda512ab4e",
+          "title": "安卓",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761724945457",
