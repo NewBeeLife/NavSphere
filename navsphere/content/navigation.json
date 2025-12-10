@@ -99,6 +99,15 @@
       "subCategories": []
     },
     {
+      "id": "1765329886572",
+      "title": "聚合导航",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -1522,15 +1531,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765329886572",
-      "title": "聚合导航",
-      "icon": "Globe",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
