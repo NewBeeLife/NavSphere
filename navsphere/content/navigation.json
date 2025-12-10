@@ -104,7 +104,16 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765329973507_xo0r7s3n2",
+          "title": "FMHY",
+          "href": "https://fmhy.net/",
+          "description": "The largest collection of free stuff on the internet!",
+          "icon": "/assets/favicon_1765329938803.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
