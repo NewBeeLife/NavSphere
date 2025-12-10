@@ -48,19 +48,19 @@
           "enabled": true
         },
         {
-          "id": "site_1765258270826_0f7j13cgv",
-          "title": "河西区教育政策",
-          "href": "https://www.tjhx.gov.cn/hxjyj/index.html",
-          "description": "河西区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhx.gov.cn",
-          "enabled": true
-        },
-        {
           "id": "site_1765258420042_pq0ve8lp0",
           "title": "和平区教育政策",
           "href": "https://www.tjhp.gov.cn/zw/zfxxgk/zfgbm/qjjy/fdzdgknr/zdmsxx/jy/index.html",
           "description": "和平区教育政策，包括：初中统筹、初中空降生和高一安置考等",
           "icon": "/assets/favicon_1765258377320.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765258270826_0f7j13cgv",
+          "title": "河西区教育政策",
+          "href": "https://www.tjhx.gov.cn/hxjyj/index.html",
+          "description": "河西区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhx.gov.cn",
           "enabled": true
         },
         {
