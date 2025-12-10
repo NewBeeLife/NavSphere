@@ -130,6 +130,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1765289343890_chpoeuwis",
+              "title": "Zenmux",
+              "href": "https://zenmux.ai/",
+              "description": "访问所有LLM模型",
+              "icon": "/assets/favicon_1765289323775.png",
+              "enabled": true
+            },
+            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -184,14 +192,6 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.png"
-            },
-            {
-              "id": "site_1765289343890_chpoeuwis",
-              "title": "Zenmux",
-              "href": "https://zenmux.ai/",
-              "description": "访问所有LLM模型",
-              "icon": "/assets/favicon_1765289323775.png",
-              "enabled": true
             }
           ]
         },
