@@ -1522,6 +1522,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765329886572",
+      "title": "聚合导航",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
