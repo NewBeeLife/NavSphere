@@ -1540,6 +1540,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765458923093",
+      "title": "App工具",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
