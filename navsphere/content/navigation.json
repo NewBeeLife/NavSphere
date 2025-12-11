@@ -186,6 +186,14 @@
               "enabled": true
             },
             {
+              "id": "item-1764762513556",
+              "enabled": true,
+              "title": "Google AI Studio",
+              "href": "https://aistudio.google.com/prompts/new_chat",
+              "description": "Google AI Studio",
+              "icon": "/assets/favicon_1764762488719.png"
+            },
+            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -200,14 +208,6 @@
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
               "icon": "/assets/images/logos/claude.png",
               "enabled": true
-            },
-            {
-              "id": "item-1764762513556",
-              "enabled": true,
-              "title": "Google AI Studio",
-              "href": "https://aistudio.google.com/prompts/new_chat",
-              "description": "Google AI Studio",
-              "icon": "/assets/favicon_1764762488719.png"
             }
           ]
         },
