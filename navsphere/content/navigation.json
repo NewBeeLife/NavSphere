@@ -178,6 +178,14 @@
               "enabled": true
             },
             {
+              "id": "1759046285125",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
+              "icon": "/assets/favicon_1759046289851.png",
+              "enabled": true
+            },
+            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -191,14 +199,6 @@
               "href": "https://claude.ai/",
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
               "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.png",
               "enabled": true
             },
             {
