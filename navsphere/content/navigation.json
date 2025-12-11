@@ -162,6 +162,14 @@
               "enabled": true
             },
             {
+              "id": "1739871926277",
+              "title": "perplexity",
+              "href": "https://www.perplexity.ai/",
+              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
+              "icon": "/assets/img_1739871936809.png",
+              "enabled": true
+            },
+            {
               "id": "9_3",
               "title": "Gemini",
               "href": "https://gemini.google.com/",
@@ -183,14 +191,6 @@
               "href": "https://claude.ai/",
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
               "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "perplexity",
-              "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
               "enabled": true
             },
             {
