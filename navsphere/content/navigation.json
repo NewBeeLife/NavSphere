@@ -398,7 +398,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765458971132_g6rh0xwdo",
+          "title": "Open Source Alternatives to Popular Software",
+          "href": "https://openalternative.co/",
+          "description": "A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.",
+          "icon": "/assets/favicon_1765458961327.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
