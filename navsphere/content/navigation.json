@@ -245,6 +245,47 @@
           ]
         },
         {
+          "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
+          "title": "AI 代码生成助手",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760513538759",
+              "title": "v0 by Vercel",
+              "href": "https://v0.app/",
+              "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
+              "icon": "/assets/favicon_1760513560381.png",
+              "enabled": true
+            },
+            {
+              "id": "1737529639971",
+              "title": "Cursor",
+              "href": "https://www.cursor.com/",
+              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+              "icon": "/assets/img_1737529713172.png",
+              "enabled": true
+            },
+            {
+              "id": "1737530051856",
+              "title": "Trae",
+              "href": "https://www.trae.ai/",
+              "description": "字节新出的 Cursor 竞品 Trae ，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
+              "icon": "/assets/img_1737530421138.png",
+              "enabled": true
+            },
+            {
+              "id": "1752662747639",
+              "title": "Claude code",
+              "href": "https://www.anthropic.com/claude-code",
+              "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
+              "icon": "/assets/img_1752662771107.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
           "title": "MCP Server",
           "icon": "Edit",
@@ -298,47 +339,6 @@
               "href": "https://aistudio.google.com/models/veo-3",
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1760605601454.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
-          "title": "AI 代码生成助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760513538759",
-              "title": "v0 by Vercel",
-              "href": "https://v0.app/",
-              "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
-              "icon": "/assets/favicon_1760513560381.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
-              "enabled": true
-            },
-            {
-              "id": "1737530051856",
-              "title": "Trae",
-              "href": "https://www.trae.ai/",
-              "description": "字节新出的 Cursor 竞品 Trae ，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
-              "icon": "/assets/img_1737530421138.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662747639",
-              "title": "Claude code",
-              "href": "https://www.anthropic.com/claude-code",
-              "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
-              "icon": "/assets/img_1752662771107.png",
               "enabled": true
             }
           ]
