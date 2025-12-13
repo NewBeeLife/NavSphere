@@ -1558,6 +1558,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765668757554",
+      "title": "格式转换工具",
+      "icon": "Edit",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
