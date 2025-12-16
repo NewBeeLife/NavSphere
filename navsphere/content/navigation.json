@@ -94,6 +94,14 @@
           "description": "红桥区教育政策，包括：初中统筹、初中空降生和高一安置考等",
           "icon": "/assets/favicon_1765259148388.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765851803669_rw5cwoii0",
+          "title": "天津本地宝",
+          "href": "https://tj.bendibao.com/",
+          "description": "",
+          "icon": "/assets/favicon_1765851788791.png",
+          "enabled": true
         }
       ],
       "subCategories": []
