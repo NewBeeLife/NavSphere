@@ -32,19 +32,19 @@
           "enabled": true
         },
         {
-          "id": "site_1765206591272_zw3acin2a",
-          "title": "掌上高考",
-          "href": "https://www.gaokao.cn/",
-          "description": "高报参考：查学校、查专业、查录取分数",
-          "icon": "/assets/img_1765266549134.png",
-          "enabled": true
-        },
-        {
           "id": "site_1765851803669_rw5cwoii0",
           "title": "天津本地宝",
           "href": "https://tj.bendibao.com/",
           "description": "",
           "icon": "/assets/favicon_1765851788791.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765206591272_zw3acin2a",
+          "title": "掌上高考",
+          "href": "https://www.gaokao.cn/",
+          "description": "高报参考：查学校、查专业、查录取分数",
+          "icon": "/assets/img_1765266549134.png",
           "enabled": true
         },
         {
