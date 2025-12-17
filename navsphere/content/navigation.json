@@ -200,6 +200,87 @@
       "items": [],
       "subCategories": [
         {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
+          "title": "LLM",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1765289343890_chpoeuwis",
+              "title": "Zenmux",
+              "href": "https://zenmux.ai/",
+              "description": "访问所有LLM模型",
+              "icon": "/assets/favicon_1765289323775.png",
+              "enabled": true
+            },
+            {
+              "id": "9_4",
+              "title": "Poe",
+              "href": "https://poe.com/",
+              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
+              "icon": "/assets/images/logos/poe.svg",
+              "enabled": true
+            },
+            {
+              "id": "1739871926277",
+              "title": "perplexity",
+              "href": "https://www.perplexity.ai/",
+              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
+              "icon": "/assets/img_1739871936809.png",
+              "enabled": true
+            },
+            {
+              "id": "9_3",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/",
+              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+              "icon": "/assets/images/logos/gemini.svg",
+              "enabled": true
+            },
+            {
+              "id": "1759046285125",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
+              "icon": "/assets/favicon_1759046289851.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1764762513556",
+              "enabled": true,
+              "title": "Google AI Studio",
+              "href": "https://aistudio.google.com/prompts/new_chat",
+              "description": "Google AI Studio",
+              "icon": "/assets/favicon_1764762488719.png"
+            },
+            {
+              "id": "9_2",
+              "title": "Claude",
+              "href": "https://claude.ai/",
+              "description": "Anthropic开发的AI助手，擅长分析和创作。",
+              "icon": "/assets/images/logos/claude.png",
+              "enabled": true
+            },
+            {
+              "id": "9_1",
+              "title": "ChatGPT",
+              "href": "https://chat.openai.com/",
+              "description": "OpenAI开发的人工智能聊天机器人程序。",
+              "icon": "/assets/images/logos/chatgpt.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1754218579319",
+              "title": "DeepSeek - 探索未至之境",
+              "href": "https://chat.deepseek.com/",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "icon": "/assets/favicon_1754218571142.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
           "title": "生产力工具",
           "icon": "Book",
@@ -343,87 +424,6 @@
               "href": "https://smithery.ai/",
               "description": "各种各样的 MCP Server",
               "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "LLM",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1765289343890_chpoeuwis",
-              "title": "Zenmux",
-              "href": "https://zenmux.ai/",
-              "description": "访问所有LLM模型",
-              "icon": "/assets/favicon_1765289323775.png",
-              "enabled": true
-            },
-            {
-              "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "perplexity",
-              "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            },
-            {
-              "id": "9_3",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
-              "enabled": true
-            },
-            {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1764762513556",
-              "enabled": true,
-              "title": "Google AI Studio",
-              "href": "https://aistudio.google.com/prompts/new_chat",
-              "description": "Google AI Studio",
-              "icon": "/assets/favicon_1764762488719.png"
-            },
-            {
-              "id": "9_2",
-              "title": "Claude",
-              "href": "https://claude.ai/",
-              "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/images/logos/chatgpt.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1754218579319",
-              "title": "DeepSeek - 探索未至之境",
-              "href": "https://chat.deepseek.com/",
-              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-              "icon": "/assets/favicon_1754218571142.svg",
               "enabled": true
             }
           ]
