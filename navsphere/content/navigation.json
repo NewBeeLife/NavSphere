@@ -207,14 +207,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1765289343890_chpoeuwis",
-              "title": "Zenmux",
-              "href": "https://zenmux.ai/",
-              "description": "访问所有LLM模型",
-              "icon": "/assets/favicon_1765289323775.png",
-              "enabled": true
-            },
-            {
               "id": "9_4",
               "title": "Poe",
               "href": "https://poe.com/",
@@ -1617,7 +1609,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765289343890_chpoeuwis",
+          "title": "Zenmux",
+          "href": "https://zenmux.ai/",
+          "description": "访问所有LLM模型",
+          "icon": "/assets/favicon_1765289323775.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
