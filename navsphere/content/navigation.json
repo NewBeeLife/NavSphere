@@ -201,7 +201,7 @@
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "AI助手",
+          "title": "LLM",
           "icon": "Book",
           "description": "",
           "enabled": true,
