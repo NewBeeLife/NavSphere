@@ -1,6 +1,32 @@
 {
   "navigationItems": [
     {
+      "id": "1765933935187",
+      "title": "工作台",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1765934008998_xaw7iru7g",
+          "title": "Notion",
+          "href": "https://www.notion.so/cbf7dc12f1fc4903ad54389aea82a8c7",
+          "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+          "icon": "/assets/favicon_1765933985087.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1765934077565_bxmg9osmf",
+          "title": "腾讯文档",
+          "href": "https://docs.qq.com/desktop",
+          "description": "",
+          "icon": "/assets/favicon_1765934069073.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1765205627336",
       "title": "K12权威资讯",
       "icon": "BookOpen",
@@ -1584,32 +1610,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765933935187",
-      "title": "工作台",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1765934008998_xaw7iru7g",
-          "title": "Notion",
-          "href": "https://www.notion.so/cbf7dc12f1fc4903ad54389aea82a8c7",
-          "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
-          "icon": "/assets/favicon_1765933985087.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1765934077565_bxmg9osmf",
-          "title": "腾讯文档",
-          "href": "https://docs.qq.com/desktop",
-          "description": "",
-          "icon": "/assets/favicon_1765934069073.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
