@@ -207,14 +207,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
               "id": "1739871926277",
               "title": "perplexity",
               "href": "https://www.perplexity.ai/",
@@ -1616,6 +1608,14 @@
           "href": "https://zenmux.ai/",
           "description": "访问所有LLM模型",
           "icon": "/assets/favicon_1765289323775.png",
+          "enabled": true
+        },
+        {
+          "id": "9_4",
+          "title": "Poe",
+          "href": "https://poe.com/",
+          "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
+          "icon": "/assets/images/logos/poe.svg",
           "enabled": true
         }
       ],
