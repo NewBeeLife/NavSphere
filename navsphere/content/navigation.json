@@ -207,14 +207,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/images/logos/chatgpt.png",
-              "enabled": true
-            },
-            {
               "id": "item-1754218579319",
               "title": "DeepSeek - 探索未至之境",
               "href": "https://chat.deepseek.com/",
@@ -1616,6 +1608,14 @@
           "href": "https://claude.ai/",
           "description": "Anthropic开发的AI助手，擅长分析和创作。",
           "icon": "/assets/images/logos/claude.png",
+          "enabled": true
+        },
+        {
+          "id": "9_1",
+          "title": "ChatGPT",
+          "href": "https://chat.openai.com/",
+          "description": "OpenAI开发的人工智能聊天机器人程序。",
+          "icon": "/assets/images/logos/chatgpt.png",
           "enabled": true
         }
       ],
