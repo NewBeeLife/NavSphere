@@ -1610,6 +1610,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765934607835",
+      "title": "LLM",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
