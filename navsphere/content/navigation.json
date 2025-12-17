@@ -207,14 +207,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "9_3",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
-              "enabled": true
-            },
-            {
               "id": "1759046285125",
               "title": "Grok",
               "href": "https://grok.com/",
@@ -1616,6 +1608,14 @@
           "href": "https://www.perplexity.ai/",
           "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
           "icon": "/assets/img_1739871936809.png",
+          "enabled": true
+        },
+        {
+          "id": "9_3",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/",
+          "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+          "icon": "/assets/images/logos/gemini.svg",
           "enabled": true
         }
       ],
