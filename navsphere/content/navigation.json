@@ -1584,6 +1584,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765933935187",
+      "title": "工作台",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
