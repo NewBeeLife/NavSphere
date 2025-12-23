@@ -278,6 +278,14 @@
           "description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.  - GitHub - MustardChef/WSABuilds: Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
           "icon": "/assets/favicon_1766450068948.png",
           "enabled": true
+        },
+        {
+          "id": "1766450274410",
+          "title": "WeWe RSS",
+          "href": "https://github.com/cooderl/wewe-rss",
+          "description": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）. Contribute to cooderl/wewe-rss development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1766450278513.png",
+          "enabled": true
         }
       ],
       "subCategories": []
