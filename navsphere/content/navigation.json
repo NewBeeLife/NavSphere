@@ -310,6 +310,14 @@
           "description": "A self-hosted RSS reader and personal knowledge management tool. - LeslieLeung/glean",
           "icon": "/assets/favicon_1766451507798.png",
           "enabled": true
+        },
+        {
+          "id": "1766494101405",
+          "title": "公众号爬虫",
+          "href": "https://github.com/yeximm/Access_wechat_article",
+          "description": "微信文章爬虫，批量获取微信文章的内容，包括点赞量、阅读量、评论等内容。纯Python项目，欢迎一起学习讨论。 - yeximm/Access_wechat_article",
+          "icon": "/assets/favicon_1766494104763.png",
+          "enabled": true
         }
       ],
       "subCategories": []
