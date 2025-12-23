@@ -344,6 +344,14 @@
           "description": "The largest collection of free stuff on the internet!",
           "icon": "/assets/favicon_1765329938803.png",
           "enabled": true
+        },
+        {
+          "id": "1766495717709",
+          "title": "Diggoo 导航",
+          "href": "https://hao.diggoo.xyz/?",
+          "description": "",
+          "icon": "/assets/favicon_1766495722784.png",
+          "enabled": true
         }
       ],
       "subCategories": []
