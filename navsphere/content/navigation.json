@@ -270,6 +270,14 @@
           "description": "Useful tool to track location or mobile number. Contribute to HunxByts/GhostTrack development by creating an account on GitHub.",
           "icon": "/assets/favicon_1766450009081.png",
           "enabled": true
+        },
+        {
+          "id": "1766450065330",
+          "title": "WSABuilds",
+          "href": "https://github.com/MustardChef/WSABuilds",
+          "description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.  - GitHub - MustardChef/WSABuilds: Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
+          "icon": "/assets/favicon_1766450068948.png",
+          "enabled": true
         }
       ],
       "subCategories": []
