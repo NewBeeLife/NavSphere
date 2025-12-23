@@ -318,6 +318,14 @@
           "description": "微信文章爬虫，批量获取微信文章的内容，包括点赞量、阅读量、评论等内容。纯Python项目，欢迎一起学习讨论。 - yeximm/Access_wechat_article",
           "icon": "/assets/favicon_1766494104763.png",
           "enabled": true
+        },
+        {
+          "id": "1766494143623",
+          "title": "RSSHub Radar",
+          "href": "https://github.com/DIYgod/RSSHub-Radar",
+          "description": "🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub - DIYgod/RSSHub-Radar",
+          "icon": "/assets/favicon_1766494147468.png",
+          "enabled": true
         }
       ],
       "subCategories": []
