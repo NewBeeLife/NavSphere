@@ -333,6 +333,15 @@
       "subCategories": []
     },
     {
+      "id": "1766452592863",
+      "title": "托管服务",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1765284473692",
       "title": "自动化",
       "icon": "Coffee",
@@ -1659,15 +1668,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1766452592863",
-      "title": "托管服务",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
