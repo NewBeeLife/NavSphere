@@ -262,6 +262,14 @@
           "description": "A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.",
           "icon": "/assets/favicon_1765458961327.png",
           "enabled": true
+        },
+        {
+          "id": "1766450006105",
+          "title": "GhostTrack",
+          "href": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number. Contribute to HunxByts/GhostTrack development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1766450009081.png",
+          "enabled": true
         }
       ],
       "subCategories": []
