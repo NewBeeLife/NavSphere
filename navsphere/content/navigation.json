@@ -56,6 +56,14 @@
           "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
           "icon": "/assets/favicon_1761725100238.png",
           "enabled": true
+        },
+        {
+          "id": "1766449558619",
+          "title": "BestBlogs",
+          "href": "https://github.com/ginobefun/BestBlogs",
+          "description": "汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来 - ginobefun/BestBlogs",
+          "icon": "/assets/favicon_1766449562823.png",
+          "enabled": true
         }
       ],
       "subCategories": []
