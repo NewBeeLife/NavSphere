@@ -286,6 +286,14 @@
           "description": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）. Contribute to cooderl/wewe-rss development by creating an account on GitHub.",
           "icon": "/assets/favicon_1766450278513.png",
           "enabled": true
+        },
+        {
+          "id": "1766450313761",
+          "title": "RSSHub",
+          "href": "https://github.com/DIYgod/RSSHub",
+          "description": "🧡 Everything is RSSible. Contribute to DIYgod/RSSHub development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1766450316605.png",
+          "enabled": true
         }
       ],
       "subCategories": []
