@@ -249,6 +249,15 @@
       "subCategories": []
     },
     {
+      "id": "1766539342441",
+      "title": "AI生产力",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1765458923093",
       "title": "App工具",
       "icon": "Folder",
@@ -1717,15 +1726,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1766539342441",
-      "title": "AI生产力",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
