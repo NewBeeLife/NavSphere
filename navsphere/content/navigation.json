@@ -278,6 +278,14 @@
           "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
           "icon": "/assets/img_1736418335098.png",
           "enabled": true
+        },
+        {
+          "id": "1737529639971",
+          "title": "Cursor",
+          "href": "https://www.cursor.com/",
+          "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+          "icon": "/assets/img_1737529713172.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -497,14 +505,6 @@
               "href": "https://v0.app/",
               "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
               "icon": "/assets/favicon_1760513560381.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
               "enabled": true
             },
             {
