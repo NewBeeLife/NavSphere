@@ -190,14 +190,6 @@
           "enabled": true
         },
         {
-          "id": "site_1765206529642_5isdjxakw",
-          "title": "学信网",
-          "href": "https://www.chsi.com.cn/",
-          "description": "学信网，涉及大学和研究生的录取政策说明等",
-          "icon": "/assets/favicon_1765206482701.png",
-          "enabled": true
-        },
-        {
           "id": "site_1765258420042_pq0ve8lp0",
           "title": "和平区教育政策",
           "href": "https://www.tjhp.gov.cn/zw/zfxxgk/zfgbm/qjjy/fdzdgknr/zdmsxx/jy/index.html",
@@ -243,6 +235,14 @@
           "href": "http://www.tjhq.gov.cn/zwgk/zfxxgkqzf/hz/fdzdgknr1/zdmsxx1/jy1/",
           "description": "红桥区教育政策，包括：初中统筹、初中空降生和高一安置考等",
           "icon": "/assets/favicon_1765259148388.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765206529642_5isdjxakw",
+          "title": "学信网",
+          "href": "https://www.chsi.com.cn/",
+          "description": "学信网，涉及大学和研究生的录取政策说明等",
+          "icon": "/assets/favicon_1765206482701.png",
           "enabled": true
         }
       ],
