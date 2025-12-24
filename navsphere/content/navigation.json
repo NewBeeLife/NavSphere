@@ -326,6 +326,14 @@
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
+        },
+        {
+          "id": "1737529752867",
+          "title": "Windsurf",
+          "href": "https://codeium.com/",
+          "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
+          "icon": "/assets/img_1737529843741.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -838,14 +846,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1737529752867",
-              "title": "Windsurf",
-              "href": "https://codeium.com/",
-              "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
-              "icon": "/assets/img_1737529843741.png",
-              "enabled": true
-            },
             {
               "id": "1737529887245",
               "title": "GitHub Copilot",
