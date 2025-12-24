@@ -318,6 +318,14 @@
           "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
           "icon": "/assets/img_1752662771107.png",
           "enabled": true
+        },
+        {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -606,14 +614,6 @@
       "title": "常用推荐",
       "icon": "Star",
       "items": [
-        {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
-          "enabled": true
-        },
         {
           "id": "1_1",
           "title": "Google Analytics",
