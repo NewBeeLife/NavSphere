@@ -254,7 +254,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1766497043323",
+          "title": "Google Opal [Experiment]",
+          "href": "https://opal.google/?mode=canvas",
+          "description": "AI App Building",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=opal.google",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -334,14 +343,6 @@
           "href": "https://github.com/DIYgod/RSSHub-Radar",
           "description": "🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub - DIYgod/RSSHub-Radar",
           "icon": "/assets/favicon_1766494147468.png",
-          "enabled": true
-        },
-        {
-          "id": "1766497043323",
-          "title": "Google Opal [Experiment]",
-          "href": "https://opal.google/?mode=canvas",
-          "description": "AI App Building",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=opal.google",
           "enabled": true
         },
         {
