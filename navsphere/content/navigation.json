@@ -1717,6 +1717,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1766539342441",
+      "title": "AI生产力",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
