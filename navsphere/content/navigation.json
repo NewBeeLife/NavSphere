@@ -133,32 +133,6 @@
       "subCategories": []
     },
     {
-      "id": "1761724945457",
-      "title": "媒体资讯",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1766449659847",
-          "title": "bestblogs.dev",
-          "href": "https://www.bestblogs.dev/",
-          "description": "为您提供独特的编程、人工智能、产品设计、商业科技和个人成长领域的价值导向内容，汇集自顶级技术公司和社区。我们利用先进语言模型，为您摘要、评分和翻译这些文章，节省您的阅读时间。我们了解数据筛选的痛点，致力于为您呈现精选内容。立即订阅，探索未来技术的无限可能！",
-          "icon": "/assets/img_1766449825517.png",
-          "enabled": true
-        },
-        {
-          "id": "1761725058490",
-          "title": "Reddit",
-          "href": "https://www.reddit.com/",
-          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-          "icon": "/assets/favicon_1761725100238.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1765934607835",
       "title": "LLM",
       "icon": "BookOpen",
@@ -243,6 +217,32 @@
           "href": "https://www.doubao.com/chat/",
           "description": "字节旗下大模型",
           "icon": "/assets/favicon_1765934749362.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1761724945457",
+      "title": "媒体资讯",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1766449659847",
+          "title": "bestblogs.dev",
+          "href": "https://www.bestblogs.dev/",
+          "description": "为您提供独特的编程、人工智能、产品设计、商业科技和个人成长领域的价值导向内容，汇集自顶级技术公司和社区。我们利用先进语言模型，为您摘要、评分和翻译这些文章，节省您的阅读时间。我们了解数据筛选的痛点，致力于为您呈现精选内容。立即订阅，探索未来技术的无限可能！",
+          "icon": "/assets/img_1766449825517.png",
+          "enabled": true
+        },
+        {
+          "id": "1761725058490",
+          "title": "Reddit",
+          "href": "https://www.reddit.com/",
+          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+          "icon": "/assets/favicon_1761725100238.png",
           "enabled": true
         }
       ],
