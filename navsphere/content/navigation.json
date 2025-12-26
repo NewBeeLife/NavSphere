@@ -27,6 +27,112 @@
       "subCategories": []
     },
     {
+      "id": "1765205627336",
+      "title": "K12权威资讯",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1765205746267_gm5g0y686",
+          "title": "招考资讯网",
+          "href": "http://www.zhaokao.net/",
+          "description": "中高考权威资讯，包括：考试安排、录取成绩、一分一段表、真题解析等",
+          "icon": "/assets/img_1765245732003.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765206283416_but276qlt",
+          "title": "天津政务网",
+          "href": "https://www.tj.gov.cn/zwgk/ggqsydwxxgk/jy/",
+          "description": "天津所有学校名录，包括：初中、高中、小学、大学，学校官网、地址、公众号、师资、特色等",
+          "icon": "/assets/img_1765257279104.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765206452655_l4jta98io",
+          "title": "天津市教育委员会",
+          "href": "https://jy.tj.gov.cn/BMFW/rxzs/ywjyzs/",
+          "description": "义务教育招生政策，具体说明每个学校所属区域，以及招生区域",
+          "icon": "/assets/img_1765266526112.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765851803669_rw5cwoii0",
+          "title": "天津本地宝",
+          "href": "https://tj.bendibao.com/",
+          "description": "天津本地城市生活门户网站，提供天津地区交通、旅游、房地产、美食、购物、教育、医疗、求职招聘、团购、诚信商家等生活服务类精华实用资讯",
+          "icon": "/assets/img_1765851945082.png",
+          "enabled": true
+        },
+        {
+          "id": "1766553205762",
+          "title": "优志愿",
+          "href": "https://www.youzy.cn/",
+          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
+          "icon": "/assets/favicon_1766553203535.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765258420042_pq0ve8lp0",
+          "title": "和平区教育政策",
+          "href": "https://www.tjhp.gov.cn/zw/zfxxgk/zfgbm/qjjy/fdzdgknr/zdmsxx/jy/index.html",
+          "description": "和平区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "/assets/favicon_1765258377320.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765258270826_0f7j13cgv",
+          "title": "河西区教育政策",
+          "href": "https://www.tjhx.gov.cn/hxjyj/index.html",
+          "description": "河西区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhx.gov.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1765258542738_qrpea93gy",
+          "title": "南开区教育政策",
+          "href": "https://www.tjnk.gov.cn/NKQZF/ZWGK5712/zfxxgkqwbj/qjyj1/fdzdgknr17/zdmsxx17/jy17/index.html",
+          "description": "南开区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "/assets/favicon_1765258513395.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765258791634_1afva9hqm",
+          "title": "河东区教育政策",
+          "href": "https://www.tjhd.gov.cn/zwgk/zfxxgk/zfxxgkqzf/hz/fdzdgknr41/zdmsxx41/jy41/",
+          "description": "河东区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "/assets/favicon_1765258761850.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765259034498_0q08jt8bg",
+          "title": "河北区教育政策",
+          "href": "http://www.tjhb.gov.cn/zwgk/zfxxgk/zfxxgkqjjg/qjyj/fdzdgknr5/zdmsxx5/jy5/index.html",
+          "description": "河北区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhb.gov.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1765259201778_z64i7e1zy",
+          "title": "红桥区教育政策",
+          "href": "http://www.tjhq.gov.cn/zwgk/zfxxgkqzf/hz/fdzdgknr1/zdmsxx1/jy1/",
+          "description": "红桥区教育政策，包括：初中统筹、初中空降生和高一安置考等",
+          "icon": "/assets/favicon_1765259148388.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765206529642_5isdjxakw",
+          "title": "学信网",
+          "href": "https://www.chsi.com.cn/",
+          "description": "学信网，涉及大学和研究生的录取政策说明等",
+          "icon": "/assets/favicon_1765206482701.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -137,112 +243,6 @@
           "href": "https://www.doubao.com/chat/",
           "description": "字节旗下大模型",
           "icon": "/assets/favicon_1765934749362.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1765205627336",
-      "title": "K12权威资讯",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1765205746267_gm5g0y686",
-          "title": "招考资讯网",
-          "href": "http://www.zhaokao.net/",
-          "description": "中高考权威资讯，包括：考试安排、录取成绩、一分一段表、真题解析等",
-          "icon": "/assets/img_1765245732003.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765206283416_but276qlt",
-          "title": "天津政务网",
-          "href": "https://www.tj.gov.cn/zwgk/ggqsydwxxgk/jy/",
-          "description": "天津所有学校名录，包括：初中、高中、小学、大学，学校官网、地址、公众号、师资、特色等",
-          "icon": "/assets/img_1765257279104.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765206452655_l4jta98io",
-          "title": "天津市教育委员会",
-          "href": "https://jy.tj.gov.cn/BMFW/rxzs/ywjyzs/",
-          "description": "义务教育招生政策，具体说明每个学校所属区域，以及招生区域",
-          "icon": "/assets/img_1765266526112.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765851803669_rw5cwoii0",
-          "title": "天津本地宝",
-          "href": "https://tj.bendibao.com/",
-          "description": "天津本地城市生活门户网站，提供天津地区交通、旅游、房地产、美食、购物、教育、医疗、求职招聘、团购、诚信商家等生活服务类精华实用资讯",
-          "icon": "/assets/img_1765851945082.png",
-          "enabled": true
-        },
-        {
-          "id": "1766553205762",
-          "title": "优志愿",
-          "href": "https://www.youzy.cn/",
-          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
-          "icon": "/assets/favicon_1766553203535.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765258420042_pq0ve8lp0",
-          "title": "和平区教育政策",
-          "href": "https://www.tjhp.gov.cn/zw/zfxxgk/zfgbm/qjjy/fdzdgknr/zdmsxx/jy/index.html",
-          "description": "和平区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "/assets/favicon_1765258377320.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765258270826_0f7j13cgv",
-          "title": "河西区教育政策",
-          "href": "https://www.tjhx.gov.cn/hxjyj/index.html",
-          "description": "河西区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhx.gov.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1765258542738_qrpea93gy",
-          "title": "南开区教育政策",
-          "href": "https://www.tjnk.gov.cn/NKQZF/ZWGK5712/zfxxgkqwbj/qjyj1/fdzdgknr17/zdmsxx17/jy17/index.html",
-          "description": "南开区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "/assets/favicon_1765258513395.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765258791634_1afva9hqm",
-          "title": "河东区教育政策",
-          "href": "https://www.tjhd.gov.cn/zwgk/zfxxgk/zfxxgkqzf/hz/fdzdgknr41/zdmsxx41/jy41/",
-          "description": "河东区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "/assets/favicon_1765258761850.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765259034498_0q08jt8bg",
-          "title": "河北区教育政策",
-          "href": "http://www.tjhb.gov.cn/zwgk/zfxxgk/zfxxgkqjjg/qjyj/fdzdgknr5/zdmsxx5/jy5/index.html",
-          "description": "河北区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tjhb.gov.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1765259201778_z64i7e1zy",
-          "title": "红桥区教育政策",
-          "href": "http://www.tjhq.gov.cn/zwgk/zfxxgkqzf/hz/fdzdgknr1/zdmsxx1/jy1/",
-          "description": "红桥区教育政策，包括：初中统筹、初中空降生和高一安置考等",
-          "icon": "/assets/favicon_1765259148388.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1765206529642_5isdjxakw",
-          "title": "学信网",
-          "href": "https://www.chsi.com.cn/",
-          "description": "学信网，涉及大学和研究生的录取政策说明等",
-          "icon": "/assets/favicon_1765206482701.png",
           "enabled": true
         }
       ],
