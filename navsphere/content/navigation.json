@@ -128,6 +128,14 @@
           "description": "学信网，涉及大学和研究生的录取政策说明等",
           "icon": "/assets/favicon_1765206482701.png",
           "enabled": true
+        },
+        {
+          "id": "1766758122551",
+          "title": "搜狗",
+          "href": "https://weixin.sogou.com/",
+          "description": "公众号文章搜索",
+          "icon": "/assets/favicon_1766758126539.png",
+          "enabled": true
         }
       ],
       "subCategories": []
