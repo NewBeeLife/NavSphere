@@ -22,6 +22,14 @@
           "description": "",
           "icon": "/assets/favicon_1765934069073.ico",
           "enabled": true
+        },
+        {
+          "id": "1766758122551",
+          "title": "公众号搜索",
+          "href": "https://weixin.sogou.com/",
+          "description": "搜狗微信公众号搜索",
+          "icon": "/assets/img_1766758349183.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -71,14 +79,6 @@
           "href": "https://www.youzy.cn/",
           "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
           "icon": "/assets/favicon_1766553203535.png",
-          "enabled": true
-        },
-        {
-          "id": "1766758122551",
-          "title": "公众号搜索",
-          "href": "https://weixin.sogou.com/",
-          "description": "搜狗微信公众号搜索",
-          "icon": "/assets/img_1766758349183.png",
           "enabled": true
         },
         {
