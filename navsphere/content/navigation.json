@@ -54,6 +54,14 @@
           "description": "锐思教育的聚合招生信息",
           "icon": "/assets/favicon_1766798978948.png",
           "enabled": true
+        },
+        {
+          "id": "1766846783296",
+          "title": "Learn Your Way",
+          "href": "https://learnyourway.withgoogle.com/",
+          "description": "",
+          "icon": "/assets/favicon_1766846786471.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
