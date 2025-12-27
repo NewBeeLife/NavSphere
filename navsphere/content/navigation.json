@@ -38,6 +38,14 @@
           "description": "字节旗下大模型",
           "icon": "/assets/favicon_1765934749362.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765289343890_chpoeuwis",
+          "title": "Zenmux",
+          "href": "https://zenmux.ai/",
+          "description": "访问所有LLM模型",
+          "icon": "/assets/favicon_1765289323775.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -155,14 +163,6 @@
       "description": "",
       "enabled": true,
       "items": [
-        {
-          "id": "site_1765289343890_chpoeuwis",
-          "title": "Zenmux",
-          "href": "https://zenmux.ai/",
-          "description": "访问所有LLM模型",
-          "icon": "/assets/favicon_1765289323775.png",
-          "enabled": true
-        },
         {
           "id": "9_4",
           "title": "Poe",
