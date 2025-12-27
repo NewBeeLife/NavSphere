@@ -30,6 +30,14 @@
           "description": "搜狗微信公众号搜索",
           "icon": "/assets/img_1766758349183.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765934771837_9k533yv3k",
+          "title": "豆包",
+          "href": "https://www.doubao.com/chat/",
+          "description": "字节旗下大模型",
+          "icon": "/assets/favicon_1765934749362.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -217,14 +225,6 @@
           "href": "https://chat.deepseek.com/",
           "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
           "icon": "/assets/favicon_1754218571142.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1765934771837_9k533yv3k",
-          "title": "豆包",
-          "href": "https://www.doubao.com/chat/",
-          "description": "字节旗下大模型",
-          "icon": "/assets/favicon_1765934749362.png",
           "enabled": true
         }
       ],
