@@ -46,6 +46,14 @@
           "description": "访问所有LLM模型",
           "icon": "/assets/favicon_1765289323775.png",
           "enabled": true
+        },
+        {
+          "id": "1766798974943",
+          "title": "锐思聚合",
+          "href": "https://ruisi.ruisichina.cn/news/",
+          "description": "锐思教育的聚合招生信息",
+          "icon": "/assets/favicon_1766798978948.png",
+          "enabled": true
         }
       ],
       "subCategories": []
