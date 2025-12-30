@@ -62,6 +62,14 @@
           "description": "",
           "icon": "/assets/favicon_1766846786471.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1767101139279_cfqflhn7t",
+          "title": "LocalSend Web",
+          "href": "https://web.localsend.org/",
+          "description": "Share files between your browser and other devices running LocalSend.",
+          "icon": "/assets/favicon_1767101132469.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
