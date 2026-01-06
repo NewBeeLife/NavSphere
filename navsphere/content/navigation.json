@@ -70,6 +70,14 @@
           "description": "Share files between your browser and other devices running LocalSend.",
           "icon": "/assets/favicon_1767101132469.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767665504043_bn9419b67",
+          "title": "X",
+          "href": "https://x.com/home",
+          "description": "",
+          "icon": "/assets/favicon_1767665475282.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
