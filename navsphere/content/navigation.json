@@ -78,6 +78,14 @@
           "description": "",
           "icon": "/assets/favicon_1767665475282.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767671596370_p32gc9y06",
+          "title": "Claude Code 实战课程（中文翻译）",
+          "href": "https://cholf5.com/claude-code-in-action/index.html",
+          "description": "Claude Code 实战课程（中文翻译）",
+          "icon": "/assets/favicon_1767671577952.png",
+          "enabled": true
         }
       ],
       "subCategories": []
