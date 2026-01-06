@@ -86,6 +86,14 @@
           "description": "Claude Code 实战课程（中文翻译）",
           "icon": "/assets/favicon_1767671577952.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767681681736_n9uhuuvif",
+          "title": "SurfSense",
+          "href": "https://github.com/MODSetter/SurfSense",
+          "description": "NotebookLM 开源平替",
+          "icon": "/assets/favicon_1767681640669.png",
+          "enabled": true
         }
       ],
       "subCategories": []
