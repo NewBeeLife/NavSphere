@@ -126,6 +126,14 @@
           "description": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts. - GBSOSS/skill-from-masters",
           "icon": "/assets/favicon_1768025153340.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768025220294_qx3sitt9o",
+          "title": "Superpowers",
+          "href": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library. Contribute to obra/superpowers development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1768025207501.png",
+          "enabled": true
         }
       ],
       "subCategories": []
