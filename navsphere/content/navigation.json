@@ -134,6 +134,14 @@
           "description": "Claude Code superpowers: core skills library. Contribute to obra/superpowers development by creating an account on GitHub.",
           "icon": "/assets/favicon_1768025207501.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768216906520_s7m7u2vki",
+          "title": "OpenCode 中文教程",
+          "href": "https://learnopencode.com/",
+          "description": "OpenCode 中文教程官网。从零基础到进阶，手把手教你用 AI 编程助手写代码、改 Bug、自动化办公。支持智谱、DeepSeek 等国产模型。",
+          "icon": "/assets/favicon_1768216893011.png",
+          "enabled": true
         }
       ],
       "subCategories": []
