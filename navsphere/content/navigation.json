@@ -142,6 +142,14 @@
           "description": "OpenCode 中文教程官网。从零基础到进阶，手把手教你用 AI 编程助手写代码、改 Bug、自动化办公。支持智谱、DeepSeek 等国产模型。",
           "icon": "/assets/favicon_1768216893011.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768276605343_eryuxncj8",
+          "title": "YPrompt",
+          "href": "https://github.com/fish2018/YPrompt",
+          "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo - fish2018/YPrompt",
+          "icon": "/assets/favicon_1768276591483.png",
+          "enabled": true
         }
       ],
       "subCategories": []
