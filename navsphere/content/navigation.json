@@ -142,6 +142,14 @@
           "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo - fish2018/YPrompt",
           "icon": "/assets/favicon_1768276591483.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768401681226_1zzczeohv",
+          "title": "Mifong",
+          "href": "https://mifong.cn/",
+          "description": "辅导圈1对1领域；第三方资讯分享平台",
+          "icon": "/assets/favicon_1768401638934.png",
+          "enabled": true
         }
       ],
       "subCategories": []
