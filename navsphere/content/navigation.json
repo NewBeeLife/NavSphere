@@ -104,14 +104,6 @@
           "enabled": true
         },
         {
-          "id": "site_1768276605343_eryuxncj8",
-          "title": "YPrompt",
-          "href": "https://github.com/fish2018/YPrompt",
-          "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo - fish2018/YPrompt",
-          "icon": "/assets/favicon_1768276591483.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768401681226_1zzczeohv",
           "title": "Mifong",
           "href": "https://mifong.cn/",
@@ -1758,6 +1750,14 @@
           "href": "https://github.com/GBSOSS/skill-from-masters/",
           "description": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts. - GBSOSS/skill-from-masters",
           "icon": "/assets/favicon_1767883796526.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1768276605343_eryuxncj8",
+          "title": "YPrompt",
+          "href": "https://github.com/fish2018/YPrompt",
+          "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo - fish2018/YPrompt",
+          "icon": "/assets/favicon_1768276591483.png",
           "enabled": true
         }
       ],
