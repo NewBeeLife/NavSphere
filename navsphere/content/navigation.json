@@ -150,6 +150,14 @@
           "description": "辅导圈1对1领域；第三方资讯分享平台",
           "icon": "/assets/favicon_1768401638934.png",
           "enabled": true
+        },
+        {
+          "id": "1766553205762",
+          "title": "优志愿",
+          "href": "https://www.youzy.cn/",
+          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
+          "icon": "/assets/favicon_1766553203535.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -191,14 +199,6 @@
           "href": "https://tj.bendibao.com/",
           "description": "天津本地城市生活门户网站，提供天津地区交通、旅游、房地产、美食、购物、教育、医疗、求职招聘、团购、诚信商家等生活服务类精华实用资讯",
           "icon": "/assets/img_1765851945082.png",
-          "enabled": true
-        },
-        {
-          "id": "1766553205762",
-          "title": "优志愿",
-          "href": "https://www.youzy.cn/",
-          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
-          "icon": "/assets/favicon_1766553203535.png",
           "enabled": true
         },
         {
