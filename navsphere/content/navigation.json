@@ -64,6 +64,14 @@
           "enabled": true
         },
         {
+          "id": "site_1768216906520_s7m7u2vki",
+          "title": "OpenCode 中文教程",
+          "href": "https://learnopencode.com/",
+          "description": "OpenCode 中文教程官网。从零基础到进阶，手把手教你用 AI 编程助手写代码、改 Bug、自动化办公。支持智谱、DeepSeek 等国产模型。",
+          "icon": "/assets/favicon_1768216893011.png",
+          "enabled": true
+        },
+        {
           "id": "1766846783296",
           "title": "Learn Your Way",
           "href": "https://learnyourway.withgoogle.com/",
@@ -93,14 +101,6 @@
           "href": "https://watcha.cn/shop",
           "description": "观猹的瓜棚",
           "icon": "/assets/favicon_1767755979476.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1768216906520_s7m7u2vki",
-          "title": "OpenCode 中文教程",
-          "href": "https://learnopencode.com/",
-          "description": "OpenCode 中文教程官网。从零基础到进阶，手把手教你用 AI 编程助手写代码、改 Bug、自动化办公。支持智谱、DeepSeek 等国产模型。",
-          "icon": "/assets/favicon_1768216893011.png",
           "enabled": true
         },
         {
