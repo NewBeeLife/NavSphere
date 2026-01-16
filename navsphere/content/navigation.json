@@ -88,14 +88,6 @@
           "enabled": true
         },
         {
-          "id": "site_1767883821663_g4n5yjmjl",
-          "title": "Skill from masters",
-          "href": "https://github.com/GBSOSS/skill-from-masters/",
-          "description": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts. - GBSOSS/skill-from-masters",
-          "icon": "/assets/favicon_1767883796526.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768025220294_qx3sitt9o",
           "title": "Superpowers",
           "href": "https://github.com/obra/superpowers",
@@ -1758,6 +1750,14 @@
           "href": "https://github.com/lfnovo/open-notebook",
           "description": "Notebook LM开源平台",
           "icon": "/assets/favicon_1767681733155.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767883821663_g4n5yjmjl",
+          "title": "Skill from masters",
+          "href": "https://github.com/GBSOSS/skill-from-masters/",
+          "description": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts. - GBSOSS/skill-from-masters",
+          "icon": "/assets/favicon_1767883796526.png",
           "enabled": true
         }
       ],
