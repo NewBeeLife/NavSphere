@@ -88,14 +88,6 @@
           "enabled": true
         },
         {
-          "id": "site_1768025220294_qx3sitt9o",
-          "title": "Superpowers",
-          "href": "https://github.com/obra/superpowers",
-          "description": "Claude Code superpowers: core skills library. Contribute to obra/superpowers development by creating an account on GitHub.",
-          "icon": "/assets/favicon_1768025207501.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768216906520_s7m7u2vki",
           "title": "OpenCode 中文教程",
           "href": "https://learnopencode.com/",
@@ -1758,6 +1750,14 @@
           "href": "https://github.com/fish2018/YPrompt",
           "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo - fish2018/YPrompt",
           "icon": "/assets/favicon_1768276591483.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1768025220294_qx3sitt9o",
+          "title": "Superpowers",
+          "href": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library. Contribute to obra/superpowers development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1768025207501.png",
           "enabled": true
         }
       ],
