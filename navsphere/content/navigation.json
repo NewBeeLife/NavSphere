@@ -80,14 +80,6 @@
           "enabled": true
         },
         {
-          "id": "site_1767681767707_u1agld44l",
-          "title": "Open Notebook",
-          "href": "https://github.com/lfnovo/open-notebook",
-          "description": "Notebook LM开源平台",
-          "icon": "/assets/favicon_1767681733155.png",
-          "enabled": true
-        },
-        {
           "id": "site_1767756055463_mjecubxox",
           "title": "观楂",
           "href": "https://watcha.cn/shop",
@@ -1758,6 +1750,14 @@
           "href": "https://github.com/MODSetter/SurfSense",
           "description": "NotebookLM 开源平替",
           "icon": "/assets/favicon_1767681640669.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767681767707_u1agld44l",
+          "title": "Open Notebook",
+          "href": "https://github.com/lfnovo/open-notebook",
+          "description": "Notebook LM开源平台",
+          "icon": "/assets/favicon_1767681733155.png",
           "enabled": true
         }
       ],
