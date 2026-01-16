@@ -1752,6 +1752,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768532101356",
+      "title": "生产力",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
