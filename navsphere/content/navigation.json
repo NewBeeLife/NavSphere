@@ -48,14 +48,6 @@
           "enabled": true
         },
         {
-          "id": "1766798974943",
-          "title": "锐思聚合",
-          "href": "https://ruisi.ruisichina.cn/news/",
-          "description": "锐思教育的聚合招生信息",
-          "icon": "/assets/favicon_1766798978948.png",
-          "enabled": true
-        },
-        {
           "id": "1766846783296",
           "title": "Learn Your Way",
           "href": "https://learnyourway.withgoogle.com/",
@@ -255,6 +247,14 @@
           "href": "https://www.chsi.com.cn/",
           "description": "学信网，涉及大学和研究生的录取政策说明等",
           "icon": "/assets/favicon_1765206482701.png",
+          "enabled": true
+        },
+        {
+          "id": "1766798974943",
+          "title": "锐思聚合",
+          "href": "https://ruisi.ruisichina.cn/news/",
+          "description": "锐思教育的聚合招生信息",
+          "icon": "/assets/favicon_1766798978948.png",
           "enabled": true
         }
       ],
