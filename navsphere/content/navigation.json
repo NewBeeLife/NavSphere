@@ -118,6 +118,14 @@
           "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
           "icon": "/assets/favicon_1770183271600.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1770202812008_ipn1zke6w",
+          "title": "Aliyun",
+          "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
+          "description": "阿里云OpenClaw部署",
+          "icon": "/assets/favicon_1770202793363.png",
+          "enabled": true
         }
       ],
       "subCategories": []
