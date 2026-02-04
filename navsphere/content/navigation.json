@@ -110,6 +110,14 @@
           "description": "辅导圈1对1领域；第三方资讯分享平台",
           "icon": "/assets/favicon_1768401638934.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770183283821_giimtmngy",
+          "title": "Openclaw",
+          "href": "https://openclaw.im/",
+          "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
+          "icon": "/assets/favicon_1770183271600.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
