@@ -134,6 +134,14 @@
           "description": "腾讯云OpenClaw部署",
           "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770357410767_q7fkzk4nz",
+          "title": "推特下載器",
+          "href": "https://savetwitter.net/zh-tw3",
+          "description": "下載推特影片(X)、照片、GIF、MP3 ",
+          "icon": "/assets/favicon_1770357393868.png",
+          "enabled": true
         }
       ],
       "subCategories": []
