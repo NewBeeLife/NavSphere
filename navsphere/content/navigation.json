@@ -150,6 +150,14 @@
           "description": "音视频转文字",
           "icon": "/assets/favicon_1770731555786.png",
           "enabled": true
+        },
+        {
+          "id": "site_1771594707742_itnwzvwif",
+          "title": "Yutori",
+          "href": "https://scouts.yutori.com/onboarding",
+          "description": "Agents that monitor the web for anything you care about.",
+          "icon": "/assets/favicon_1771594696537.png",
+          "enabled": true
         }
       ],
       "subCategories": []
