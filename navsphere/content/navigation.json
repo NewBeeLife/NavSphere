@@ -158,6 +158,14 @@
           "description": "Agents that monitor the web for anything you care about.",
           "icon": "/assets/favicon_1771594696537.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772580962464_pper7ltrk",
+          "title": "宝玉分享skills",
+          "href": "https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md",
+          "description": "Contribute to JimLiu/baoyu-skills development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1772580922043.png",
+          "enabled": true
         }
       ],
       "subCategories": []
