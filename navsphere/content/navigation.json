@@ -166,6 +166,14 @@
           "description": "Contribute to JimLiu/baoyu-skills development by creating an account on GitHub.",
           "icon": "/assets/favicon_1772580922043.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772609408647_n8q698s9h",
+          "title": "OpenClaw 中文文档",
+          "href": "https://openclaw.cc/",
+          "description": "OpenClaw 官方文档 — 个人 AI 助手，任意平台 🦞",
+          "icon": "/assets/favicon_1772609398530.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
