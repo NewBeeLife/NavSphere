@@ -104,14 +104,6 @@
           "enabled": true
         },
         {
-          "id": "site_1768401681226_1zzczeohv",
-          "title": "Mifong",
-          "href": "https://mifong.cn/",
-          "description": "辅导圈1对1领域；第三方资讯分享平台",
-          "icon": "/assets/favicon_1768401638934.png",
-          "enabled": true
-        },
-        {
           "id": "site_1770183283821_giimtmngy",
           "title": "Openclaw",
           "href": "https://openclaw.im/",
@@ -295,6 +287,14 @@
           "href": "https://ruisi.ruisichina.cn/news/",
           "description": "锐思教育的聚合招生信息",
           "icon": "/assets/favicon_1766798978948.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1768401681226_1zzczeohv",
+          "title": "Mifong",
+          "href": "https://mifong.cn/",
+          "description": "辅导圈1对1领域；第三方资讯分享平台",
+          "icon": "/assets/favicon_1768401638934.png",
           "enabled": true
         }
       ],
