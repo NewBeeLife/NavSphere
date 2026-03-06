@@ -112,14 +112,6 @@
           "enabled": true
         },
         {
-          "id": "site_1770202927895_umanlhehv",
-          "title": "腾讯云OpenClaw",
-          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
-          "description": "腾讯云OpenClaw部署",
-          "icon": "/assets/favicon_1770202909424.png",
-          "enabled": true
-        },
-        {
           "id": "site_1770357410767_q7fkzk4nz",
           "title": "推特下載器",
           "href": "https://savetwitter.net/zh-tw3",
@@ -493,6 +485,14 @@
           "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
           "description": "阿里云OpenClaw部署",
           "icon": "/assets/favicon_1770202793363.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1770202927895_umanlhehv",
+          "title": "腾讯云OpenClaw",
+          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
+          "description": "腾讯云OpenClaw部署",
+          "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
         }
       ],
