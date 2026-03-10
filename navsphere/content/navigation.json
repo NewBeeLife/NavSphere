@@ -104,11 +104,35 @@
           "enabled": true
         },
         {
+          "id": "site_1768401681226_1zzczeohv",
+          "title": "Mifong",
+          "href": "https://mifong.cn/",
+          "description": "辅导圈1对1领域；第三方资讯分享平台",
+          "icon": "/assets/favicon_1768401638934.png",
+          "enabled": true
+        },
+        {
           "id": "site_1770183283821_giimtmngy",
           "title": "Openclaw",
           "href": "https://openclaw.im/",
           "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
           "icon": "/assets/favicon_1770183271600.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1770202812008_ipn1zke6w",
+          "title": "阿里云OpenClaw",
+          "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
+          "description": "阿里云OpenClaw部署",
+          "icon": "/assets/favicon_1770202793363.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1770202927895_umanlhehv",
+          "title": "腾讯云OpenClaw",
+          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
+          "description": "腾讯云OpenClaw部署",
+          "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
         },
         {
@@ -144,19 +168,11 @@
           "enabled": true
         },
         {
-          "id": "site_1772609408647_n8q698s9h",
-          "title": "OpenClaw 中文文档",
-          "href": "https://openclaw.cc/",
-          "description": "OpenClaw 官方文档 — 个人 AI 助手，任意平台 🦞",
-          "icon": "/assets/favicon_1772609398530.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1772760437155_1tmnecdlr",
-          "title": "OpenClaw 101",
-          "href": "https://openclaw101.dev/zh",
-          "description": "从零开始，7天掌握你的AI私人助理。教程、技能和社区资源一站式获取。",
-          "icon": "/assets/favicon_1772760401624.svg",
+          "id": "site_1773114042846_iekn3m6t3",
+          "title": "Qclaw",
+          "href": "https://claw.guanjia.qq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1773114026924.png",
           "enabled": true
         }
       ],
@@ -263,14 +279,6 @@
           "href": "https://ruisi.ruisichina.cn/news/",
           "description": "锐思教育的聚合招生信息",
           "icon": "/assets/favicon_1766798978948.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1768401681226_1zzczeohv",
-          "title": "Mifong",
-          "href": "https://mifong.cn/",
-          "description": "辅导圈1对1领域；第三方资讯分享平台",
-          "icon": "/assets/favicon_1768401638934.png",
           "enabled": true
         }
       ],
@@ -469,22 +477,6 @@
           "href": "https://github.com/MODSetter/SurfSense",
           "description": "Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvftDp9 - MODSetter/SurfSense",
           "icon": "/assets/favicon_1771594035553.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1770202812008_ipn1zke6w",
-          "title": "阿里云OpenClaw",
-          "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
-          "description": "阿里云OpenClaw部署",
-          "icon": "/assets/favicon_1770202793363.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1770202927895_umanlhehv",
-          "title": "腾讯云OpenClaw",
-          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
-          "description": "腾讯云OpenClaw部署",
-          "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
         }
       ],
