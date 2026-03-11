@@ -190,6 +190,14 @@
           "description": "访问 console.volcengine.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.volcengine.com",
           "enabled": true
+        },
+        {
+          "id": "site_1773194315873_53tol76tt",
+          "title": "FreeConvert",
+          "href": "https://www.freeconvert.com/zh",
+          "description": "文件转换器 - 在线转换 2000 多种音频、图像、视频、电子书、文档和档案格式。无需安装软件，免费使用。",
+          "icon": "/assets/favicon_1773194300631.png",
+          "enabled": true
         }
       ],
       "subCategories": []
