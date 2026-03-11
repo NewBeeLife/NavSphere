@@ -198,6 +198,14 @@
           "description": "文件转换器 - 在线转换 2000 多种音频、图像、视频、电子书、文档和档案格式。无需安装软件，免费使用。",
           "icon": "/assets/favicon_1773194300631.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773194589455_q9gx3epl7",
+          "title": "花生下载",
+          "href": "https://peanutdl.com/zh",
+          "description": "",
+          "icon": "/assets/favicon_1773194580321.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
