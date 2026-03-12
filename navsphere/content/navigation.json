@@ -104,6 +104,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773194589455_q9gx3epl7",
+          "title": "花生下载",
+          "href": "https://peanutdl.com/zh",
+          "description": "B站、抖音视频下载",
+          "icon": "/assets/favicon_1773194580321.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1770357410767_q7fkzk4nz",
           "title": "推特下載器",
           "href": "https://savetwitter.net/zh-tw3",
@@ -197,14 +205,6 @@
           "href": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience/claw",
           "description": "访问 console.volcengine.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.volcengine.com",
-          "enabled": true
-        },
-        {
-          "id": "site_1773194589455_q9gx3epl7",
-          "title": "花生下载",
-          "href": "https://peanutdl.com/zh",
-          "description": "B站、抖音视频下载",
-          "icon": "/assets/favicon_1773194580321.ico",
           "enabled": true
         },
         {
