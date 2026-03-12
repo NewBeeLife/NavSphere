@@ -96,6 +96,14 @@
           "enabled": true
         },
         {
+          "id": "site_1767756055463_mjecubxox",
+          "title": "观楂",
+          "href": "https://watcha.cn/shop",
+          "description": "观猹的瓜棚",
+          "icon": "/assets/favicon_1767755979476.png",
+          "enabled": true
+        },
+        {
           "id": "site_1767671596370_p32gc9y06",
           "title": "Claude Code 实战课程（中文翻译）",
           "href": "https://cholf5.com/claude-code-in-action/index.html",
@@ -117,14 +125,6 @@
           "href": "https://savetwitter.net/zh-tw3",
           "description": "下載推特影片(X)、照片、GIF、MP3 ",
           "icon": "/assets/favicon_1770357393868.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1767756055463_mjecubxox",
-          "title": "观楂",
-          "href": "https://watcha.cn/shop",
-          "description": "观猹的瓜棚",
-          "icon": "/assets/favicon_1767755979476.png",
           "enabled": true
         },
         {
