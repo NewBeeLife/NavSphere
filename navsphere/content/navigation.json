@@ -206,6 +206,14 @@
           "description": "B站、抖音视频下载",
           "icon": "/assets/favicon_1773194580321.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1773277947774_38gkywncj",
+          "title": "Feishu",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书网页版",
+          "icon": "/assets/favicon_1773277928944.png",
+          "enabled": true
         }
       ],
       "subCategories": []
