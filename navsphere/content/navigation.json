@@ -24,6 +24,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773277947774_38gkywncj",
+          "title": "Feishu",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书网页版",
+          "icon": "/assets/favicon_1773277928944.png",
+          "enabled": true
+        },
+        {
           "id": "1766553205762",
           "title": "优志愿",
           "href": "https://www.youzy.cn/",
@@ -165,14 +173,6 @@
           "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
           "description": "腾讯云OpenClaw部署",
           "icon": "/assets/favicon_1770202909424.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1773277947774_38gkywncj",
-          "title": "Feishu",
-          "href": "https://www.feishu.cn/",
-          "description": "飞书网页版",
-          "icon": "/assets/favicon_1773277928944.png",
           "enabled": true
         },
         {
