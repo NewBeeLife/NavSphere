@@ -184,14 +184,6 @@
           "enabled": true
         },
         {
-          "id": "site_1773114042846_iekn3m6t3",
-          "title": "Qclaw",
-          "href": "https://claw.guanjia.qq.com/",
-          "description": "",
-          "icon": "/assets/favicon_1773114026924.png",
-          "enabled": true
-        },
-        {
           "id": "site_1773143759415_f3odwjyg8",
           "title": "arkClaw",
           "href": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience/claw",
@@ -517,6 +509,14 @@
           "href": "https://www.codebuddy.cn/work/",
           "description": "腾讯的openClaw",
           "icon": "/assets/favicon_1773143566879.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1773114042846_iekn3m6t3",
+          "title": "Qclaw",
+          "href": "https://claw.guanjia.qq.com/",
+          "description": "腾讯的openClaw，可连微信和QQ",
+          "icon": "/assets/favicon_1773114026924.png",
           "enabled": true
         }
       ],
