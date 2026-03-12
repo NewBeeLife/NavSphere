@@ -168,6 +168,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773277947774_38gkywncj",
+          "title": "Feishu",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书网页版",
+          "icon": "/assets/favicon_1773277928944.png",
+          "enabled": true
+        },
+        {
           "id": "site_1771594707742_itnwzvwif",
           "title": "Yutori",
           "href": "https://scouts.yutori.com/onboarding",
@@ -205,14 +213,6 @@
           "href": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience/claw",
           "description": "访问 console.volcengine.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.volcengine.com",
-          "enabled": true
-        },
-        {
-          "id": "site_1773277947774_38gkywncj",
-          "title": "Feishu",
-          "href": "https://www.feishu.cn/",
-          "description": "飞书网页版",
-          "icon": "/assets/favicon_1773277928944.png",
           "enabled": true
         }
       ],
