@@ -32,19 +32,19 @@
           "enabled": true
         },
         {
-          "id": "1766758122551",
-          "title": "公众号搜索",
-          "href": "https://weixin.sogou.com/",
-          "description": "搜狗微信公众号搜索",
-          "icon": "/assets/img_1766758349183.png",
-          "enabled": true
-        },
-        {
           "id": "site_1765934771837_9k533yv3k",
           "title": "豆包",
           "href": "https://www.doubao.com/chat/",
           "description": "字节旗下大模型",
           "icon": "/assets/favicon_1765934749362.png",
+          "enabled": true
+        },
+        {
+          "id": "1766758122551",
+          "title": "公众号搜索",
+          "href": "https://weixin.sogou.com/",
+          "description": "搜狗微信公众号搜索",
+          "icon": "/assets/img_1766758349183.png",
           "enabled": true
         },
         {
