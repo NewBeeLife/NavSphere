@@ -166,6 +166,14 @@
           "description": "Contribute to JimLiu/baoyu-skills development by creating an account on GitHub.",
           "icon": "/assets/favicon_1772580922043.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773279386134_j67n6nzbe",
+          "title": "Hellotik",
+          "href": "https://www.hellotik.app/zh/douyin",
+          "description": "抖音、B站视频下载",
+          "icon": "/assets/favicon_1773279365194.png",
+          "enabled": true
         }
       ],
       "subCategories": []
