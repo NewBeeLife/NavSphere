@@ -152,14 +152,6 @@
           "enabled": true
         },
         {
-          "id": "site_1770202927895_umanlhehv",
-          "title": "腾讯云OpenClaw",
-          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
-          "description": "腾讯云OpenClaw部署",
-          "icon": "/assets/favicon_1770202909424.png",
-          "enabled": true
-        },
-        {
           "id": "site_1771594707742_itnwzvwif",
           "title": "Yutori",
           "href": "https://scouts.yutori.com/onboarding",
@@ -517,6 +509,14 @@
           "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
           "description": "阿里云OpenClaw部署",
           "icon": "/assets/favicon_1770202793363.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1770202927895_umanlhehv",
+          "title": "腾讯云OpenClaw",
+          "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
+          "description": "腾讯云OpenClaw部署",
+          "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
         }
       ],
