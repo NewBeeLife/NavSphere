@@ -128,6 +128,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773194315873_53tol76tt",
+          "title": "FreeConvert",
+          "href": "https://www.freeconvert.com/zh",
+          "description": "文件转换器 - 在线转换 2000 多种音频、图像、视频、电子书、文档和档案格式。无需安装软件，免费使用。",
+          "icon": "/assets/favicon_1773194300631.png",
+          "enabled": true
+        },
+        {
           "id": "site_1768401681226_1zzczeohv",
           "title": "Mifong",
           "href": "https://mifong.cn/",
@@ -157,14 +165,6 @@
           "href": "https://cloud.tencent.com/act/pro/lighthouse-moltbot",
           "description": "腾讯云OpenClaw部署",
           "icon": "/assets/favicon_1770202909424.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1773194315873_53tol76tt",
-          "title": "FreeConvert",
-          "href": "https://www.freeconvert.com/zh",
-          "description": "文件转换器 - 在线转换 2000 多种音频、图像、视频、电子书、文档和档案格式。无需安装软件，免费使用。",
-          "icon": "/assets/favicon_1773194300631.png",
           "enabled": true
         },
         {
