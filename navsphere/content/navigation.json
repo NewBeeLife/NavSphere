@@ -192,14 +192,6 @@
           "enabled": true
         },
         {
-          "id": "site_1773143584013_4tjd92wb0",
-          "title": "workBuddy",
-          "href": "https://www.codebuddy.cn/work/",
-          "description": "访问 www.codebuddy.cn",
-          "icon": "/assets/favicon_1773143566879.png",
-          "enabled": true
-        },
-        {
           "id": "site_1773143759415_f3odwjyg8",
           "title": "arkClaw",
           "href": "https://console.volcengine.com/ark/region:ark+cn-beijing/experience/claw",
@@ -517,6 +509,14 @@
           "href": "https://openclaw.im/",
           "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
           "icon": "/assets/favicon_1770183271600.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1773143584013_4tjd92wb0",
+          "title": "workBuddy",
+          "href": "https://www.codebuddy.cn/work/",
+          "description": "腾讯的openClaw",
+          "icon": "/assets/favicon_1773143566879.png",
           "enabled": true
         }
       ],
