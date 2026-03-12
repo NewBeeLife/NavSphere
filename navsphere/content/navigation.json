@@ -24,6 +24,14 @@
           "enabled": true
         },
         {
+          "id": "1766553205762",
+          "title": "优志愿",
+          "href": "https://www.youzy.cn/",
+          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
+          "icon": "/assets/favicon_1766553203535.png",
+          "enabled": true
+        },
+        {
           "id": "1766758122551",
           "title": "公众号搜索",
           "href": "https://weixin.sogou.com/",
@@ -45,14 +53,6 @@
           "href": "https://zenmux.ai/",
           "description": "访问所有LLM模型",
           "icon": "/assets/favicon_1765289323775.png",
-          "enabled": true
-        },
-        {
-          "id": "1766553205762",
-          "title": "优志愿",
-          "href": "https://www.youzy.cn/",
-          "description": "优志愿高考志愿填报模拟平台，为高考生提供新高考选科和高考志愿填报技巧，输入高考分推荐适合的大学和专业，帮助高考生解决高考志愿填报难题。",
-          "icon": "/assets/favicon_1766553203535.png",
           "enabled": true
         },
         {
