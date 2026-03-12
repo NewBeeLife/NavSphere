@@ -88,6 +88,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773194589455_q9gx3epl7",
+          "title": "花生下载",
+          "href": "https://peanutdl.com/zh",
+          "description": "B站、抖音视频下载",
+          "icon": "/assets/favicon_1773194580321.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1767671596370_p32gc9y06",
           "title": "Claude Code 实战课程（中文翻译）",
           "href": "https://cholf5.com/claude-code-in-action/index.html",
@@ -101,14 +109,6 @@
           "href": "https://learnopencode.com/",
           "description": "OpenCode 中文教程官网。从零基础到进阶，手把手教你用 AI 编程助手写代码、改 Bug、自动化办公。支持智谱、DeepSeek 等国产模型。",
           "icon": "/assets/favicon_1768216893011.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1773194589455_q9gx3epl7",
-          "title": "花生下载",
-          "href": "https://peanutdl.com/zh",
-          "description": "B站、抖音视频下载",
-          "icon": "/assets/favicon_1773194580321.ico",
           "enabled": true
         },
         {
