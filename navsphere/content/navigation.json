@@ -152,14 +152,6 @@
           "enabled": true
         },
         {
-          "id": "site_1770183283821_giimtmngy",
-          "title": "Openclaw",
-          "href": "https://openclaw.im/",
-          "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
-          "icon": "/assets/favicon_1770183271600.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1770202812008_ipn1zke6w",
           "title": "阿里云OpenClaw",
           "href": "https://www.aliyun.com/activity/ecs/clawdbot?source=5176.29345612&userCode=r3yteowb",
@@ -517,6 +509,14 @@
           "href": "https://github.com/MODSetter/SurfSense",
           "description": "Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvftDp9 - MODSetter/SurfSense",
           "icon": "/assets/favicon_1771594035553.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1770183283821_giimtmngy",
+          "title": "Openclaw",
+          "href": "https://openclaw.im/",
+          "description": "Openclaw is an open-source AI automation framework for developers. Build programmable AI workflows, integrate with 50+ services, and deploy on your own infrastructure. MIT licensed.",
+          "icon": "/assets/favicon_1770183271600.ico",
           "enabled": true
         }
       ],
