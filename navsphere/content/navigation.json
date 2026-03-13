@@ -182,6 +182,14 @@
           "description": "访问 my.feishu.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.feishu.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1773383230867_t6hrjfctt",
+          "title": "公众号下载",
+          "href": "https://changfengbox.top/wechat",
+          "description": "长风的储物柜 - 免费的文字转语音服务，在线下载微信公众号、网易新闻、今日头条文章。方便快捷，轻松获取资讯。",
+          "icon": "/assets/favicon_1773383200515.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
