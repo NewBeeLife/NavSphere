@@ -190,6 +190,14 @@
           "description": "长风的储物柜 - 免费的文字转语音服务，在线下载微信公众号、网易新闻、今日头条文章。方便快捷，轻松获取资讯。",
           "icon": "/assets/favicon_1773383200515.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1773466524300_tamptdupu",
+          "title": "Public APIs",
+          "href": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1773466500859.png",
+          "enabled": true
         }
       ],
       "subCategories": []
