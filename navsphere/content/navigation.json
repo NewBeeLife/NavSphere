@@ -198,6 +198,14 @@
           "description": "A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub.",
           "icon": "/assets/favicon_1773466500859.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773759710109_tst3hglz1",
+          "title": "Hermes Agent",
+          "href": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you. Contribute to NousResearch/hermes-agent development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1773759688809.png",
+          "enabled": true
         }
       ],
       "subCategories": []
