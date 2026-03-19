@@ -206,6 +206,14 @@
           "description": "The agent that grows with you. Contribute to NousResearch/hermes-agent development by creating an account on GitHub.",
           "icon": "/assets/favicon_1773759688809.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773884908360_qt59kg4b7",
+          "title": "Learn Claude Code",
+          "href": "https://learn.shareai.run/zh/",
+          "description": "从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制",
+          "icon": "/assets/favicon_1773884900229.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
