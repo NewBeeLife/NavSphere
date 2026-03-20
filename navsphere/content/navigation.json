@@ -214,6 +214,14 @@
           "description": "从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制",
           "icon": "/assets/favicon_1773884900229.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1774015654750_a0qafbku4",
+          "title": "Plane",
+          "href": "https://github.com/makeplane/plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. - makeplane/plane",
+          "icon": "/assets/favicon_1774015636580.png",
+          "enabled": true
         }
       ],
       "subCategories": []
