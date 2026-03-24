@@ -230,6 +230,14 @@
           "description": "文灵AI - 创新AI驱动写作助手 | 一键生成精美卡片。使用文灵AI，快速生成吸引人的内容卡片。支持AI文案创作、精美排版、一键导出。",
           "icon": "https://ai-xiaohs.vercel.app/favicon1.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1774359444183_1pnxx6xp7",
+          "title": "Clawx",
+          "href": "https://clawx.com.cn/",
+          "description": "ClawX 是一个运行在你自己电脑上的 AI 助手，完全集成了OpenClaw生态的所有能力。它能自主完成工作，并将结果通过你常用的通讯工具推送给你。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=clawx.com.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
