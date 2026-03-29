@@ -590,6 +590,14 @@
           "description": "腾讯云OpenClaw部署",
           "icon": "/assets/favicon_1770202909424.png",
           "enabled": true
+        },
+        {
+          "id": "site_1774754317765_ruz4z8pqm",
+          "title": "Last30days Skill",
+          "href": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - mvanhorn/last30days-skill",
+          "icon": "/assets/favicon_1774754297091.png",
+          "enabled": true
         }
       ],
       "subCategories": []
