@@ -598,6 +598,14 @@
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - mvanhorn/last30days-skill",
           "icon": "/assets/favicon_1774754297091.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775715015065_fbuqivaa4",
+          "title": "Paperclip",
+          "href": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies - paperclipai/paperclip",
+          "icon": "/assets/favicon_1775714999088.png",
+          "enabled": true
         }
       ],
       "subCategories": []
