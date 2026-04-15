@@ -614,6 +614,14 @@
           "description": "A community collection of OpenClaw use cases for making life easier. - hesamsheikh/awesome-openclaw-usecases",
           "icon": "/assets/favicon_1776260405469.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776260563108_ilr6779dn",
+          "title": "OplacLaw Use Cases",
+          "href": "https://openclawcases.zeabur.app/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=openclawcases.zeabur.app",
+          "enabled": true
         }
       ],
       "subCategories": []
