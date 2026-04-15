@@ -606,6 +606,14 @@
           "description": "Open-source orchestration for zero-human companies - paperclipai/paperclip",
           "icon": "/assets/favicon_1775714999088.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776260428052_d9nx59mbn",
+          "title": "Awesome Openclaw Usecases",
+          "href": "https://github.com/hesamsheikh/awesome-openclaw-usecases/tree/main",
+          "description": "A community collection of OpenClaw use cases for making life easier. - hesamsheikh/awesome-openclaw-usecases",
+          "icon": "/assets/favicon_1776260405469.png",
+          "enabled": true
         }
       ],
       "subCategories": []
