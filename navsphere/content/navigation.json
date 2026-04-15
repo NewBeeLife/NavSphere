@@ -622,6 +622,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=openclawcases.zeabur.app",
           "enabled": true
+        },
+        {
+          "id": "site_1776260689016_pujpx2xl9",
+          "title": "ClawHub",
+          "href": "https://clawhub.ai/",
+          "description": "ClawHub — a fast skill registry for agents, with vector search.",
+          "icon": "/assets/favicon_1776260684132.png",
+          "enabled": true
         }
       ],
       "subCategories": []
