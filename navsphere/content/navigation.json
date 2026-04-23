@@ -238,6 +238,14 @@
           "description": "ClawX 是一个运行在你自己电脑上的 AI 助手，完全集成了OpenClaw生态的所有能力。它能自主完成工作，并将结果通过你常用的通讯工具推送给你。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=clawx.com.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1776948344999_tj4pimkxk",
+          "title": "中山优才",
+          "href": "https://www.linyixianhua.cn/",
+          "description": "访问 www.linyixianhua.cn",
+          "icon": "/assets/favicon_1776948326540.png",
+          "enabled": true
         }
       ],
       "subCategories": []
