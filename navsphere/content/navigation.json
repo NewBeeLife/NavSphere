@@ -246,6 +246,14 @@
           "description": "访问 www.linyixianhua.cn",
           "icon": "/assets/favicon_1776948326540.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777450970171_9tq6h0ys8",
+          "title": "AI编程橙皮书 | 花叔 Alchain | 花叔",
+          "href": "https://www.huasheng.ai/orange-books/",
+          "description": "最系统的 AI 编程中文学习资料。11 本橙皮书覆盖 Claude Code、Cursor、Agent Skills、Harness Engineering 等主题，全部免费。",
+          "icon": "/assets/favicon_1777450957925.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
