@@ -254,6 +254,14 @@
           "description": "最系统的 AI 编程中文学习资料。11 本橙皮书覆盖 Claude Code、Cursor、Agent Skills、Harness Engineering 等主题，全部免费。",
           "icon": "/assets/favicon_1777450957925.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777851630969_kjox77355",
+          "title": "Agency Agents",
+          "href": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. - msitarzewski/agency-agents",
+          "icon": "/assets/favicon_1777851608384.png",
+          "enabled": true
         }
       ],
       "subCategories": []
