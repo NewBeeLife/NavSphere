@@ -262,6 +262,14 @@
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. - msitarzewski/agency-agents",
           "icon": "/assets/favicon_1777851608384.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777952603799_nanzu53aj",
+          "title": "AI Quests",
+          "href": "https://research.google/ai-quests/intl/en_gb/map",
+          "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
+          "icon": "/assets/favicon_1777952594568.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
