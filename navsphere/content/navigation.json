@@ -56,6 +56,14 @@
           "enabled": true
         },
         {
+          "id": "site_1778076776757_wacuy0rcu",
+          "title": "Polymarket",
+          "href": "https://polymarket.com/zh",
+          "description": "Polymarket 是全球最大预测市场，你可以在这里紧跟各类赛事动态，根据自己的预判投注，轻松实现知识变现。",
+          "icon": "/assets/favicon_1778076761807.png",
+          "enabled": true
+        },
+        {
           "id": "site_1778032663971_yt4v8vco8",
           "title": "稿定设计",
           "href": "https://www.gaoding.com/creation",
@@ -277,14 +285,6 @@
           "href": "https://research.google/ai-quests/intl/en_gb/map",
           "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
           "icon": "/assets/favicon_1777952594568.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1778076776757_wacuy0rcu",
-          "title": "Polymarket",
-          "href": "https://polymarket.com/zh",
-          "description": "Polymarket 是全球最大预测市场，你可以在这里紧跟各类赛事动态，根据自己的预判投注，轻松实现知识变现。",
-          "icon": "/assets/favicon_1778076761807.png",
           "enabled": true
         }
       ],
