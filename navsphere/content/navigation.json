@@ -270,6 +270,14 @@
           "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
           "icon": "/assets/favicon_1777952594568.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1778032663971_yt4v8vco8",
+          "title": "稿定设计",
+          "href": "https://www.gaoding.com/creation",
+          "description": "访问 www.gaoding.com",
+          "icon": "/assets/favicon_1778032648914.png",
+          "enabled": true
         }
       ],
       "subCategories": []
