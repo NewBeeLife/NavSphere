@@ -384,6 +384,14 @@
           "description": "锐思教育的聚合招生信息",
           "icon": "/assets/favicon_1766798978948.png",
           "enabled": true
+        },
+        {
+          "id": "site_1778037646883_6wbhmvmnf",
+          "title": "电子课本网",
+          "href": "http://www.dzkbw.com/",
+          "description": "",
+          "icon": "/assets/favicon_1778037626410.png",
+          "enabled": true
         }
       ],
       "subCategories": []
