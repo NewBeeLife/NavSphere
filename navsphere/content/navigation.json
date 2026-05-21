@@ -40,6 +40,14 @@
           "enabled": true
         },
         {
+          "id": "site_1779333425691_54jx3kxbb",
+          "title": "Kimi Chat",
+          "href": "https://www.kimi.com/",
+          "description": "Kimi K2.6 模型发布！全新建站功能可生成极具设计感的网站，支持轻量后端模块；Agent 集群全面升级，Office 文档一键转可复用技能。Claw 群组同步开启内测，探索多 Agent 协作的全新可能。",
+          "icon": "/assets/favicon_1779333412971.png",
+          "enabled": true
+        },
+        {
           "id": "site_1765934771837_9k533yv3k",
           "title": "豆包",
           "href": "https://www.doubao.com/chat/",
@@ -285,14 +293,6 @@
           "href": "https://research.google/ai-quests/intl/en_gb/map",
           "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
           "icon": "/assets/favicon_1777952594568.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1779333425691_54jx3kxbb",
-          "title": "Kimi Chat",
-          "href": "https://www.kimi.com/",
-          "description": "Kimi K2.6 模型发布！全新建站功能可生成极具设计感的网站，支持轻量后端模块；Agent 集群全面升级，Office 文档一键转可复用技能。Claw 群组同步开启内测，探索多 Agent 协作的全新可能。",
-          "icon": "/assets/favicon_1779333412971.png",
           "enabled": true
         }
       ],
