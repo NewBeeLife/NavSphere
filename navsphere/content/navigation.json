@@ -40,14 +40,6 @@
           "enabled": true
         },
         {
-          "id": "site_1773277947774_38gkywncj",
-          "title": "Feishu",
-          "href": "https://www.feishu.cn/",
-          "description": "飞书网页版",
-          "icon": "/assets/img_1773281819382.png",
-          "enabled": true
-        },
-        {
           "id": "site_1765934771837_9k533yv3k",
           "title": "豆包",
           "href": "https://www.doubao.com/chat/",
@@ -93,6 +85,14 @@
           "href": "https://learnyourway.withgoogle.com/",
           "description": "",
           "icon": "/assets/favicon_1766846786471.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_1773277947774_38gkywncj",
+          "title": "Feishu",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书网页版",
+          "icon": "/assets/img_1773281819382.png",
           "enabled": true
         },
         {
