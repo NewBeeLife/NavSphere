@@ -40,6 +40,14 @@
           "enabled": true
         },
         {
+          "id": "site_1779499125890_1qi63uucr",
+          "title": "Grok",
+          "href": "https://grok.com/?referrer=website",
+          "description": "Grok is an AI assistant built by xAI. Chat, create images, write code, and get real-time answers from the web and X.",
+          "icon": "/assets/favicon_1779499117470.svg",
+          "enabled": true
+        },
+        {
           "id": "site_1765934771837_9k533yv3k",
           "title": "豆包",
           "href": "https://www.doubao.com/chat/",
@@ -293,14 +301,6 @@
           "href": "https://research.google/ai-quests/intl/en_gb/map",
           "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
           "icon": "/assets/favicon_1777952594568.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1779499125890_1qi63uucr",
-          "title": "Grok",
-          "href": "https://grok.com/?referrer=website",
-          "description": "Grok is an AI assistant built by xAI. Chat, create images, write code, and get real-time answers from the web and X.",
-          "icon": "/assets/favicon_1779499117470.svg",
           "enabled": true
         }
       ],
