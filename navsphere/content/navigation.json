@@ -310,6 +310,14 @@
           "description": "AI Quests: A game-based learning experience for middle schoolers (11-14) on AI. Code-free quests use real Google projects to solve societal issues.",
           "icon": "/assets/favicon_1777952594568.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1779846958109_2avzh8643",
+          "title": "Pi Coding Agent",
+          "href": "https://pi.dev/",
+          "description": "A terminal-based coding agent",
+          "icon": "/assets/favicon_1779846951699.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
