@@ -720,7 +720,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "39208baa-cce5-4b9f-a170-f3c02b22b0bf",
+          "title": "Skills",
+          "icon": "Code",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1765458923093",
