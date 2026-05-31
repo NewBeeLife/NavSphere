@@ -358,6 +358,14 @@
           "description": "找到微信的key，导出聊天记录，进行分析. Contribute to sunhanaix/pc_wechat_exp development by creating an account on GitHub.",
           "icon": "/assets/favicon_1780239460978.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780239618998_tcmyruhz0",
+          "title": "CipherTalk",
+          "href": "https://github.com/ILoveBingLu/CipherTalk",
+          "description": "本地导出微信数据，协助您完成爱的备份。. Contribute to ILoveBingLu/CipherTalk development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1780239598799.png",
+          "enabled": true
         }
       ],
       "subCategories": []
