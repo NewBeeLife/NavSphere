@@ -350,6 +350,14 @@
           "description": "访问 github.com",
           "icon": "/assets/favicon_1780239342878.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780239477541_uuhka1vjc",
+          "title": "pc_wechat_exp",
+          "href": "https://github.com/sunhanaix/pc_wechat_exp",
+          "description": "找到微信的key，导出聊天记录，进行分析. Contribute to sunhanaix/pc_wechat_exp development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1780239460978.png",
+          "enabled": true
         }
       ],
       "subCategories": []
