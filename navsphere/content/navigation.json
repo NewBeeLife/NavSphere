@@ -120,6 +120,14 @@
           "enabled": true
         },
         {
+          "id": "site_1767756055463_mjecubxox",
+          "title": "观楂",
+          "href": "https://watcha.cn/",
+          "description": "观猹的瓜棚",
+          "icon": "/assets/favicon_1767755979476.png",
+          "enabled": true
+        },
+        {
           "id": "site_1765289343890_chpoeuwis",
           "title": "Zenmux",
           "href": "https://zenmux.ai/",
@@ -141,14 +149,6 @@
           "href": "https://peanutdl.com/zh",
           "description": "B站、抖音视频下载",
           "icon": "/assets/favicon_1773194580321.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1767756055463_mjecubxox",
-          "title": "观楂",
-          "href": "https://watcha.cn/",
-          "description": "观猹的瓜棚",
-          "icon": "/assets/favicon_1767755979476.png",
           "enabled": true
         },
         {
