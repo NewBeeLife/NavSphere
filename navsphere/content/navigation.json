@@ -445,98 +445,6 @@
       "subCategories": []
     },
     {
-      "id": "1765934607835",
-      "title": "LLM",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "9_4",
-          "title": "Poe",
-          "href": "https://poe.com/",
-          "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-          "icon": "/assets/images/logos/poe.svg",
-          "enabled": true
-        },
-        {
-          "id": "1739871926277",
-          "title": "perplexity",
-          "href": "https://www.perplexity.ai/",
-          "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-          "icon": "/assets/img_1739871936809.png",
-          "enabled": true
-        },
-        {
-          "id": "9_3",
-          "title": "Gemini",
-          "href": "https://gemini.google.com/",
-          "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-          "icon": "/assets/images/logos/gemini.svg",
-          "enabled": true
-        },
-        {
-          "id": "1759046285125",
-          "title": "Grok",
-          "href": "https://grok.com/",
-          "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-          "icon": "/assets/favicon_1759046289851.png",
-          "enabled": true
-        },
-        {
-          "id": "item-1764762513556",
-          "title": "Google AI Studio",
-          "href": "https://aistudio.google.com/prompts/new_chat",
-          "description": "Google AI Studio",
-          "icon": "/assets/favicon_1764762488719.png",
-          "enabled": true
-        },
-        {
-          "id": "9_2",
-          "title": "Claude",
-          "href": "https://claude.ai/",
-          "description": "Anthropic开发的AI助手，擅长分析和创作。",
-          "icon": "/assets/images/logos/claude.png",
-          "enabled": true
-        },
-        {
-          "id": "9_1",
-          "title": "ChatGPT",
-          "href": "https://chat.openai.com/",
-          "description": "OpenAI开发的人工智能聊天机器人程序。",
-          "icon": "/assets/images/logos/chatgpt.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1761724945457",
-      "title": "媒体资讯",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1766449659847",
-          "title": "bestblogs.dev",
-          "href": "https://www.bestblogs.dev/",
-          "description": "为您提供独特的编程、人工智能、产品设计、商业科技和个人成长领域的价值导向内容，汇集自顶级技术公司和社区。我们利用先进语言模型，为您摘要、评分和翻译这些文章，节省您的阅读时间。我们了解数据筛选的痛点，致力于为您呈现精选内容。立即订阅，探索未来技术的无限可能！",
-          "icon": "/assets/img_1766449825517.png",
-          "enabled": true
-        },
-        {
-          "id": "1761725058490",
-          "title": "Reddit",
-          "href": "https://www.reddit.com/",
-          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-          "icon": "/assets/favicon_1761725100238.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1766539342441",
       "title": "AI生产力",
       "icon": "Brain",
@@ -739,6 +647,98 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765934607835",
+      "title": "LLM",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "9_4",
+          "title": "Poe",
+          "href": "https://poe.com/",
+          "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
+          "icon": "/assets/images/logos/poe.svg",
+          "enabled": true
+        },
+        {
+          "id": "1739871926277",
+          "title": "perplexity",
+          "href": "https://www.perplexity.ai/",
+          "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
+          "icon": "/assets/img_1739871936809.png",
+          "enabled": true
+        },
+        {
+          "id": "9_3",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/",
+          "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+          "icon": "/assets/images/logos/gemini.svg",
+          "enabled": true
+        },
+        {
+          "id": "1759046285125",
+          "title": "Grok",
+          "href": "https://grok.com/",
+          "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
+          "icon": "/assets/favicon_1759046289851.png",
+          "enabled": true
+        },
+        {
+          "id": "item-1764762513556",
+          "title": "Google AI Studio",
+          "href": "https://aistudio.google.com/prompts/new_chat",
+          "description": "Google AI Studio",
+          "icon": "/assets/favicon_1764762488719.png",
+          "enabled": true
+        },
+        {
+          "id": "9_2",
+          "title": "Claude",
+          "href": "https://claude.ai/",
+          "description": "Anthropic开发的AI助手，擅长分析和创作。",
+          "icon": "/assets/images/logos/claude.png",
+          "enabled": true
+        },
+        {
+          "id": "9_1",
+          "title": "ChatGPT",
+          "href": "https://chat.openai.com/",
+          "description": "OpenAI开发的人工智能聊天机器人程序。",
+          "icon": "/assets/images/logos/chatgpt.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1761724945457",
+      "title": "媒体资讯",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1766449659847",
+          "title": "bestblogs.dev",
+          "href": "https://www.bestblogs.dev/",
+          "description": "为您提供独特的编程、人工智能、产品设计、商业科技和个人成长领域的价值导向内容，汇集自顶级技术公司和社区。我们利用先进语言模型，为您摘要、评分和翻译这些文章，节省您的阅读时间。我们了解数据筛选的痛点，致力于为您呈现精选内容。立即订阅，探索未来技术的无限可能！",
+          "icon": "/assets/img_1766449825517.png",
+          "enabled": true
+        },
+        {
+          "id": "1761725058490",
+          "title": "Reddit",
+          "href": "https://www.reddit.com/",
+          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+          "icon": "/assets/favicon_1761725100238.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "1765458923093",
