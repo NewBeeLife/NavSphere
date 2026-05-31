@@ -318,6 +318,14 @@
           "description": "A terminal-based coding agent",
           "icon": "/assets/favicon_1779846951699.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1780191292075_1mpet3b0g",
+          "title": "Homepage | GSAP",
+          "href": "https://gsap.com/",
+          "description": "Supported by Webflow. Animate Anything - A wildly robust JavaScript animation library built for professionals.",
+          "icon": "/assets/favicon_1780191284999.png",
+          "enabled": true
         }
       ],
       "subCategories": []
