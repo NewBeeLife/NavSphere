@@ -160,6 +160,14 @@
           "enabled": true
         },
         {
+          "id": "site_1771594707742_itnwzvwif",
+          "title": "Yutori",
+          "href": "https://scouts.yutori.com/onboarding",
+          "description": "Agents that monitor the web for anything you care about.",
+          "icon": "/assets/favicon_1771594696537.png",
+          "enabled": true
+        },
+        {
           "id": "site_1767671596370_p32gc9y06",
           "title": "Claude Code 实战课程（中文翻译）",
           "href": "https://cholf5.com/claude-code-in-action/index.html",
@@ -197,14 +205,6 @@
           "href": "https://mifong.cn/",
           "description": "辅导圈1对1领域；第三方资讯分享平台",
           "icon": "/assets/favicon_1768401638934.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1771594707742_itnwzvwif",
-          "title": "Yutori",
-          "href": "https://scouts.yutori.com/onboarding",
-          "description": "Agents that monitor the web for anything you care about.",
-          "icon": "/assets/favicon_1771594696537.png",
           "enabled": true
         },
         {
