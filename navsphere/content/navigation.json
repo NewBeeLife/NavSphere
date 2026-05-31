@@ -326,6 +326,14 @@
           "description": "Supported by Webflow. Animate Anything - A wildly robust JavaScript animation library built for professionals.",
           "icon": "/assets/favicon_1780191284999.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780239206410_5q16o7qyj",
+          "title": "Wechat Chat History Exporter",
+          "href": "https://github.com/BlueMatthew/WechatExporter",
+          "description": "Wechat Chat History Exporter 微信聊天记录导出备份程序. Contribute to BlueMatthew/WechatExporter development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1780239179043.png",
+          "enabled": true
         }
       ],
       "subCategories": []
