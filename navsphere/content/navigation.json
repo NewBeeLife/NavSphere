@@ -88,6 +88,14 @@
           "enabled": true
         },
         {
+          "id": "site_1773277947774_38gkywncj",
+          "title": "Feishu",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书网页版",
+          "icon": "/assets/img_1773281819382.png",
+          "enabled": true
+        },
+        {
           "id": "site_1767101139279_cfqflhn7t",
           "title": "LocalSend Web",
           "href": "https://web.localsend.org/",
@@ -109,14 +117,6 @@
           "href": "https://weixin.sogou.com/",
           "description": "搜狗微信公众号搜索",
           "icon": "/assets/img_1766758349183.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1773277947774_38gkywncj",
-          "title": "Feishu",
-          "href": "https://www.feishu.cn/",
-          "description": "飞书网页版",
-          "icon": "/assets/img_1773281819382.png",
           "enabled": true
         },
         {
