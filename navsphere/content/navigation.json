@@ -342,6 +342,14 @@
           "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用. Contribute to hicccc77/WeFlow development by creating an account on GitHub.",
           "icon": "/assets/favicon_1780239226059.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780239361119_knpwv9f1q",
+          "title": "WeChatDataAnalysis",
+          "href": "https://github.com/LifeArchiveProject/WeChatDataAnalysis",
+          "description": "访问 github.com",
+          "icon": "/assets/favicon_1780239342878.png",
+          "enabled": true
         }
       ],
       "subCategories": []
