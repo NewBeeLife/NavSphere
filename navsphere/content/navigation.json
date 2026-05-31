@@ -272,6 +272,14 @@
           "enabled": true
         },
         {
+          "id": "site_1777851630969_kjox77355",
+          "title": "Agency Agents",
+          "href": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. - msitarzewski/agency-agents",
+          "icon": "/assets/favicon_1777851608384.png",
+          "enabled": true
+        },
+        {
           "id": "site_1774074105282_hpaiw34y4",
           "title": "文灵AI",
           "href": "https://ai-xiaohs.vercel.app/",
@@ -293,14 +301,6 @@
           "href": "https://www.linyixianhua.cn/",
           "description": "访问 www.linyixianhua.cn",
           "icon": "/assets/favicon_1776948326540.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1777851630969_kjox77355",
-          "title": "Agency Agents",
-          "href": "https://github.com/msitarzewski/agency-agents",
-          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. - msitarzewski/agency-agents",
-          "icon": "/assets/favicon_1777851608384.png",
           "enabled": true
         },
         {
