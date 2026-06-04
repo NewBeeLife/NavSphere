@@ -374,6 +374,14 @@
           "description": "闲鱼商品进货地 The largest collection of free stuff on the internet!",
           "icon": "/assets/favicon_1780537394899.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765329973507_xo0r7s3n2",
+          "title": "闲鱼采购FMHY",
+          "href": "https://fmhy.net/",
+          "description": "The largest collection of free stuff on the internet!",
+          "icon": "/assets/favicon_1765329938803.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -885,14 +893,6 @@
       "description": "",
       "enabled": true,
       "items": [
-        {
-          "id": "site_1765329973507_xo0r7s3n2",
-          "title": "FMHY",
-          "href": "https://fmhy.net/",
-          "description": "The largest collection of free stuff on the internet!",
-          "icon": "/assets/favicon_1765329938803.png",
-          "enabled": true
-        },
         {
           "id": "1766495717709",
           "title": "Diggoo 导航",
