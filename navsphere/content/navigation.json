@@ -699,6 +699,14 @@
               "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. - greensock/gsap-skills",
               "icon": "/assets/favicon_1780199223973.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780626095190_3zuimtv0s",
+              "title": "Trellis",
+              "href": "https://github.com/mindfold-ai/Trellis",
+              "description": "Claude专用 The best agent harness. Contribute to mindfold-ai/Trellis development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1780626050163.png",
+              "enabled": true
             }
           ]
         }
