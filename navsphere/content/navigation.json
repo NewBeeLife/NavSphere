@@ -374,6 +374,14 @@
           "description": "闲鱼商品进货地 The largest collection of free stuff on the internet!",
           "icon": "/assets/favicon_1780537394899.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780622218668_b69mtuxkt",
+          "title": "Portapps - 便携版",
+          "href": "https://portapps.io/",
+          "description": "Collection of portable apps for Windows",
+          "icon": "/assets/favicon_1780622200329.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
