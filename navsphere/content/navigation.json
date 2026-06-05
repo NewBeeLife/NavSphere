@@ -707,6 +707,14 @@
               "description": "Claude专用 The best agent harness. Contribute to mindfold-ai/Trellis development by creating an account on GitHub.",
               "icon": "/assets/favicon_1780626050163.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780664097246_qytf4thy4",
+              "title": "edulab 教学技能集合",
+              "href": "https://github.com/wy51ai/edulab",
+              "description": "Contribute to wy51ai/edulab development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1780664067268.png",
+              "enabled": true
             }
           ]
         }
