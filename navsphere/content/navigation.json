@@ -731,6 +731,14 @@
               "description": "Contribute to wy51ai/edulab development by creating an account on GitHub.",
               "icon": "/assets/favicon_1780664067268.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780747217149_safcm1n3e",
+              "title": "Taste Skill",
+              "href": "https://github.com/Leonxlnx/taste-skill",
+              "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  - GitHub - Leonxlnx/taste-skill: Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+              "icon": "/assets/favicon_1780747192356.png",
+              "enabled": true
             }
           ]
         }
