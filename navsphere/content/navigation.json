@@ -382,6 +382,14 @@
           "description": "Collection of portable apps for Windows",
           "icon": "/assets/favicon_1780622200329.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1780742191501_mwm71qqdl",
+          "title": "GitHub - yikart/AiToEarn: Let&#39;s use AI to Earn! · GitHub",
+          "href": "https://github.com/yikart/AiToEarn",
+          "description": "把内容生产的整个流程全串起来了：\n\n① 视频和图文全靠 AI 自动生成\n② 抖音、小红书、B站、TikTok 一次性全平台分发\n③ 点赞、关注、评论回复全部自动化\n④ 靠 CPS 和 CPM 变现，不用盯着也能收钱\n\n普通用户直接网页开搞，开发者用 MIT 协议随便改，团队想私有化部署三行 Docker 命令搞定。",
+          "icon": "/assets/favicon_1780742157670.png",
+          "enabled": true
         }
       ],
       "subCategories": []
