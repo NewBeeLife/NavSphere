@@ -698,6 +698,14 @@
           "description": "ClawHub — a fast skill registry for agents, with vector search.",
           "icon": "/assets/favicon_1776260684132.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780802836347_u3a1rf104",
+          "title": "ChatLab",
+          "href": "https://chatlab.fun/cn/",
+          "description": "本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
+          "icon": "/assets/favicon_1780802825964.png",
+          "enabled": true
         }
       ],
       "subCategories": [
