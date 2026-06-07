@@ -336,14 +336,6 @@
           "enabled": true
         },
         {
-          "id": "site_1780239241790_rad313129",
-          "title": "WeFlow",
-          "href": "https://github.com/hicccc77/WeFlow",
-          "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用. Contribute to hicccc77/WeFlow development by creating an account on GitHub.",
-          "icon": "/assets/favicon_1780239226059.png",
-          "enabled": true
-        },
-        {
           "id": "site_1780239361119_knpwv9f1q",
           "title": "WeChatDataAnalysis",
           "href": "https://github.com/LifeArchiveProject/WeChatDataAnalysis",
