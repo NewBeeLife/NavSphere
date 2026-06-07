@@ -390,6 +390,14 @@
           "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm",
           "icon": "/assets/favicon_1780746833480.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780821527029_qsjj3aol9",
+          "title": "留痕 WeChatMsg",
+          "href": "https://github.com/LC044/WeChatMsg",
+          "description": "Contribute to LC044/WeChatMsg development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1780821489567.png",
+          "enabled": true
         }
       ],
       "subCategories": []
