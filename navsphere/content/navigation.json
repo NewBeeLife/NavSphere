@@ -406,6 +406,14 @@
           "description": "微信工具",
           "icon": "/assets/favicon_1780821755974.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780821872082_zreekn46x",
+          "title": "Echotrace",
+          "href": "https://github.com/ycccccccy/echotrace",
+          "description": "EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records - ycccccccy/echotrace",
+          "icon": "/assets/favicon_1780821851807.png",
+          "enabled": true
         }
       ],
       "subCategories": []
