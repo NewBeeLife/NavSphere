@@ -414,6 +414,14 @@
           "description": "EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records - ycccccccy/echotrace",
           "icon": "/assets/favicon_1780821851807.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780822031425_agneac7sh",
+          "title": "CipherTalk蜜语",
+          "href": "https://github.com/ILoveBingLu/CipherTalk",
+          "description": "访问 github.com",
+          "icon": "/assets/favicon_1780822009540.png",
+          "enabled": true
         }
       ],
       "subCategories": []
