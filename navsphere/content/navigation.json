@@ -398,6 +398,14 @@
           "description": "Contribute to LC044/WeChatMsg development by creating an account on GitHub.",
           "icon": "/assets/favicon_1780821489567.png",
           "enabled": true
+        },
+        {
+          "id": "1780821754829",
+          "title": "WeFlow",
+          "href": "https://gitee.com/ChaoYouAi/WeFlow",
+          "description": "微信工具",
+          "icon": "/assets/favicon_1780821755974.png",
+          "enabled": true
         }
       ],
       "subCategories": []
