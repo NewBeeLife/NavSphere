@@ -779,6 +779,14 @@
               "description": "Feishu streaming card for Hermes Gateway. Contribute to baileyh8/hermes-feishu-streaming-card development by creating an account on GitHub.",
               "icon": "/assets/favicon_1781401987119.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781402800298_pq1d2gz06",
+              "title": "PDF Parser for A",
+              "href": "https://github.com/opendataloader-project/opendataloader-pdf",
+              "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. - opendataloader-project/opendataloader-pdf",
+              "icon": "/assets/favicon_1781402767335.png",
+              "enabled": true
             }
           ]
         }
