@@ -789,6 +789,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cb2259fc-7436-4404-88d2-cb9c8c5fbd1b",
+          "title": "Tools",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
