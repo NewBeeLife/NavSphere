@@ -771,6 +771,14 @@
               "description": "A meta-skill plugin for Nous Research&#39;s Hermes AI agent that watches your workflows and automatically turns them into reusable skills.  Every time you work with Hermes and solve something — setting up a project, debugging code, creating a PR — that   workflow disappears at the end of the session. You have to explain it again next time. - Romanescu11/hermes-skill-factory",
               "icon": "/assets/favicon_1781401941970.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781402021453_cjhvndh12",
+              "title": "Hermes飞书消息卡片化",
+              "href": "https://github.com/baileyh8/hermes-feishu-streaming-card",
+              "description": "Feishu streaming card for Hermes Gateway. Contribute to baileyh8/hermes-feishu-streaming-card development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1781401987119.png",
+              "enabled": true
             }
           ]
         }
