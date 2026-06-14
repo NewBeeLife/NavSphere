@@ -796,6 +796,14 @@
               "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. - opendataloader-project/opendataloader-pdf",
               "icon": "/assets/favicon_1781402767335.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781443638643_14dq26ps5",
+              "title": "LinkSwift",
+              "href": "https://github.com/hmjz100/LinkSwift",
+              "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 - hmjz100/LinkSwift",
+              "icon": "/assets/favicon_1781443623645.png",
+              "enabled": true
             }
           ]
         }
