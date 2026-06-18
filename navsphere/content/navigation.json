@@ -779,6 +779,14 @@
               "description": "Feishu streaming card for Hermes Gateway. Contribute to baileyh8/hermes-feishu-streaming-card development by creating an account on GitHub.",
               "icon": "/assets/favicon_1781401987119.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781771514560_3m18niyek",
+              "title": "GitHub - DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. · GitHub",
+              "href": "https://github.com/DietrichGebert/ponytail",
+              "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - DietrichGebert/ponytail",
+              "icon": "/assets/favicon_1781771506020.png",
+              "enabled": true
             }
           ]
         },
