@@ -787,6 +787,14 @@
               "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - DietrichGebert/ponytail",
               "icon": "/assets/favicon_1781771506020.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781794085115_mjacysw8l",
+              "title": "Claude Mem",
+              "href": "https://github.com/thedotmack/claude-mem",
+              "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More - thedotmack/claude-mem",
+              "icon": "/assets/favicon_1781794063529.png",
+              "enabled": true
             }
           ]
         },
