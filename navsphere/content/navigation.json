@@ -120,6 +120,14 @@
           "enabled": true
         },
         {
+          "id": "site_1782629294135_5rh7afbwt",
+          "title": "微信公众号文章批量下载",
+          "href": "https://github.com/qiye45/wechatDownload",
+          "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用 - qiye45/wechatDownload",
+          "icon": "/assets/favicon_1782629279381.png",
+          "enabled": true
+        },
+        {
           "id": "site_1770357410767_q7fkzk4nz",
           "title": "推特下載器",
           "href": "https://savetwitter.net/zh-tw3",
@@ -213,14 +221,6 @@
           "href": "https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md",
           "description": "Contribute to JimLiu/baoyu-skills development by creating an account on GitHub.",
           "icon": "/assets/favicon_1772580922043.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1782629294135_5rh7afbwt",
-          "title": "微信公众号文章批量下载",
-          "href": "https://github.com/qiye45/wechatDownload",
-          "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用 - qiye45/wechatDownload",
-          "icon": "/assets/favicon_1782629279381.png",
           "enabled": true
         },
         {
