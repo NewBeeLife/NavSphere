@@ -414,6 +414,14 @@
           "description": "访问 github.com",
           "icon": "/assets/favicon_1780822009540.png",
           "enabled": true
+        },
+        {
+          "id": "site_1782629294135_5rh7afbwt",
+          "title": "微信公众号文章批量下载",
+          "href": "https://github.com/qiye45/wechatDownload",
+          "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用 - qiye45/wechatDownload",
+          "icon": "/assets/favicon_1782629279381.png",
+          "enabled": true
         }
       ],
       "subCategories": []
