@@ -408,14 +408,6 @@
           "enabled": true
         },
         {
-          "id": "site_1780822031425_agneac7sh",
-          "title": "CipherTalk蜜语",
-          "href": "https://github.com/ILoveBingLu/CipherTalk",
-          "description": "访问 github.com",
-          "icon": "/assets/favicon_1780822009540.png",
-          "enabled": true
-        },
-        {
           "id": "site_1782629294135_5rh7afbwt",
           "title": "微信公众号文章批量下载",
           "href": "https://github.com/qiye45/wechatDownload",
