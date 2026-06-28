@@ -216,6 +216,14 @@
           "enabled": true
         },
         {
+          "id": "site_1782629294135_5rh7afbwt",
+          "title": "微信公众号文章批量下载",
+          "href": "https://github.com/qiye45/wechatDownload",
+          "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用 - qiye45/wechatDownload",
+          "icon": "/assets/favicon_1782629279381.png",
+          "enabled": true
+        },
+        {
           "id": "site_1773382735973_tyjhmjyob",
           "title": "OpenClaw 从入门到精通指南",
           "href": "https://my.feishu.cn/wiki/THLNw1vWCiXJD6kvomlcYpu5nRe",
@@ -376,14 +384,6 @@
           "enabled": true
         },
         {
-          "id": "site_1782629294135_5rh7afbwt",
-          "title": "微信公众号文章批量下载",
-          "href": "https://github.com/qiye45/wechatDownload",
-          "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用 - qiye45/wechatDownload",
-          "icon": "/assets/favicon_1782629279381.png",
-          "enabled": true
-        },
-        {
           "id": "1780746830774",
           "title": "WhichLLM",
           "href": "https://github.com/Andyyyy64/whichllm",
@@ -413,14 +413,6 @@
           "href": "https://github.com/ycccccccy/echotrace",
           "description": "EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records - ycccccccy/echotrace",
           "icon": "/assets/favicon_1780821851807.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1780822031425_agneac7sh",
-          "title": "CipherTalk蜜语",
-          "href": "https://github.com/ILoveBingLu/CipherTalk",
-          "description": "访问 github.com",
-          "icon": "/assets/favicon_1780822009540.png",
           "enabled": true
         }
       ],
