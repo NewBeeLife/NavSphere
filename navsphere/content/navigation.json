@@ -120,6 +120,14 @@
           "enabled": true
         },
         {
+          "id": "site_1783475478997_b9lqrpolw",
+          "title": "X2MD",
+          "href": "https://github.com/izscc/x2md",
+          "description": "把 X/Twitter 内容一键保存为 Obsidian 可用的 Markdown（支持 Tweet、Thread、Note/Article、图片和视频）。 - izscc/x2md",
+          "icon": "/assets/favicon_1783475459749.png",
+          "enabled": true
+        },
+        {
           "id": "1766758122551",
           "title": "公众号搜索",
           "href": "https://weixin.sogou.com/",
@@ -413,14 +421,6 @@
           "href": "https://github.com/ycccccccy/echotrace",
           "description": "EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records - ycccccccy/echotrace",
           "icon": "/assets/favicon_1780821851807.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1783475478997_b9lqrpolw",
-          "title": "X2MD",
-          "href": "https://github.com/izscc/x2md",
-          "description": "把 X/Twitter 内容一键保存为 Obsidian 可用的 Markdown（支持 Tweet、Thread、Note/Article、图片和视频）。 - izscc/x2md",
-          "icon": "/assets/favicon_1783475459749.png",
           "enabled": true
         }
       ],
